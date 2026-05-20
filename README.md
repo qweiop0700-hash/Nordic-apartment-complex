@@ -1,2 +1,9 @@
-# Nordic-apartment-complex
-Allie chen
+# Group_fiVe_Nordic residential complex
+# 組員名單
+## 張桓瑋 陳承均 劉宇宸
+# 資料夾結構
+## site:建築與基地的周遭關係，涵蓋景觀、街廓關係、都市密度與紋理涵構
+## mass:建築量體分布的狀態，涵蓋其尺度、虛空間
+## function:各種主要機能的排佈，涵蓋居住、公共、商業等機能
+## unit:居住單元內部廳房配置，功能類型
+## atmosphere:構成人所感受到的各種細部元素，涵蓋光線、材質、空間圍塑
