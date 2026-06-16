@@ -1,0 +1,145 @@
+﻿Case09｜Nicolinehus Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Aarhus Ø（奧胡斯海港新城）第一期開發區最後一塊重要基地。
+* 基地介於 Aarhus Marina 與 Harbour Bath 之間的濱水位置。
+* 周邊以新興住宅社區為主，缺乏足夠的都市活動與公共生活。
+* 開發目標不僅是住宅建築，更需帶動整體區域活化。
+* 基地具有面海、面港及都市街道等多重界面。
+* 需整合住宅、商業、辦公、停車與公共空間等混合機能。
+* 高價值景觀資源需有效分配至各住宅單元。
+* 濱海環境要求建築具備耐久性與長期使用價值。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何讓以住宅為主的新開發區產生真正的都市生活。
+* 如何在高密度住宅中維持良好的採光、景觀與戶外空間品質。
+* 如何建立居民與城市共享的公共活動平台。
+* 如何讓大型開發兼顧社會、經濟與環境永續。
+Concept
+* Urban Life Catalyst（都市生活催化器）
+* Mixed-use Waterfront Living（混合使用濱水生活）
+* Courtyard Community（中庭社區）
+* Stepped Housing Form（階梯式住宅）
+* Public-Private Gradient（公共至私密空間漸層）
+Strategy
+* 混合住宅、商業、辦公、市場與停車功能。
+* 建築分為兩個量體，中間切入城市街道。
+* 設置大型 Market Hall 引入全天候人流。
+* 採用階梯式量體確保每戶景觀與採光。
+* 建立中央共享庭院與社區廣場。
+* 串聯濱水步道、城市街道與內部公共空間。
+* 利用紅磚材料回應港區歷史脈絡。
+* 透過大量露台提升住宅戶外生活品質。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* mixed-use block
+* waterfront housing
+* courtyard
+* market hall
+* urban street
+* residential unit
+* apartment
+* private terrace
+* balcony
+* community plaza
+* waterfront promenade
+* pedestrian axis
+* elevator core
+* stair core
+* entrance lobby
+* parking garage
+* retail space
+* office space
+* restaurant
+* café
+* grocery store
+* landscape courtyard
+* stepped volume
+* red brick façade
+* harbour front
+* public square
+* green corridor
+* urban passage
+________________
+
+
+C2｜Semantic Relations（語意關係）
+Spatial Relation
+* Residential Units → surround → Courtyard
+* Courtyard → connects → Community Plaza
+* Plaza → links to → Waterfront Promenade
+* Apartments → extend to → Private Terraces
+* Market Hall → occupies → Ground Floor
+* Stepped Volume → creates → Outdoor Living Spaces
+Circulation Relation
+* Pedestrian Axis → traverses → Development
+* Urban Street → divides → Building Mass
+* Elevator Core → serves → Residential Floors
+* Entrance Lobby → connects → Courtyard
+* Waterfront Path → links → Public Spaces
+* Internal Walkway → connects → Residential Entrances
+Functional Relation
+* Market Hall → attracts → Urban Activity
+* Retail Space → activates → Ground Floor
+* Courtyard → supports → Community Interaction
+* Waterfront Space → accommodates → Recreation
+* Residential Unit → accesses → Outdoor Terrace
+* Parking Garage → supports → Mixed-use Functions
+Perceptual Relation
+* Waterfront Views → enhance → Residential Quality
+* Stepped Form → increases → Visual Openness
+* Courtyard → creates → Protected Environment
+* Red Brick Façade → conveys → Warmth and Permanence
+* Terraces → strengthen → Indoor-Outdoor Connection
+Material Relation
+* Red Brick → clads → Building Envelope
+* Glass Railings → open → Visual Connections
+* Concrete Structure → supports → Stepped Massing
+* Landscape Elements → soften → Urban Scale
+Conceptual Relation
+* Mixed-use Development → generates → Urban Life
+* Courtyard Housing → promotes → Community Living
+* Waterfront Living → enhances → Quality of Life
+* Stepped Massing → maximizes → Daylight and Views
+* Public Programs → activate → Residential District
+Environmental Relation
+* Stepped Volume → optimizes → Solar Access
+* Courtyard → improves → Microclimate
+* Waterfront Location → provides → Natural Ventilation
+* Green Spaces → increase → Environmental Comfort
+* Large Terraces → support → Outdoor Living
+Urban Context Relation
+* Development → completes → Aarhus Ø Phase One
+* Urban Street → reconnects → City and Waterfront
+* Market Hall → attracts → Residents and Visitors
+* Waterfront Promenade → extends → Public Realm
+* Red Brick Architecture → references → Harbour Heritage
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* Market Hall 成為居民與訪客的重要聚集場所。
+* 商業、餐飲與住宅活動形成全天候使用模式。
+* 中庭與廣場提升居民交流與社區參與度。
+* 濱水步道成為居民日常休閒與散步動線。
+* 大型露台提高戶外活動與景觀使用頻率。
+社會評論／媒體回饋
+* 被視為 Aarhus Ø 從住宅區轉向完整都市區的重要催化案例。
+* 成功導入都市生活與公共活動。
+* 混合使用模式被認為有效提升區域活力。
+* 階梯式量體兼顧景觀、採光與住宅品質受到高度肯定。
+* 被評價為兼具城市性與居住性的濱水住宅開發模式。
+設計者自身回顧與空間操作結果
+* 建築成功成為 Aarhus Ø 的 Urban Life Catalyst。
+* Market Hall 有效帶動區域人流與公共生活。
+* 中央庭院與廣場形成社區共享核心。
+* 階梯式量體讓所有住宅獲得優質景觀與日照條件。
+* 混合使用機能建立全天候活化機制。
+* 紅磚材料成功延續港區歷史記憶並提升建築耐久性。
+* 濱水步道、商業活動與住宅生活形成完整且連續的都市空間系統。

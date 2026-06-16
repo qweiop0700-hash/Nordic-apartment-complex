@@ -1,0 +1,121 @@
+﻿Case19｜Norra Tornen Precedent DNA
+Gene_A｜Conditions 條件
+* 位於瑞典 Stockholm 的 Hagastaden 區。
+* 基地鄰近 Karolinska Institute，位於都市交通交會節點。
+* 建築由雙塔組成，共 320 戶住宅。
+* 住宅面積約 44–271㎡，包含訪客公寓、健身房與零售空間。
+* 須遵守既有都市計畫指定的兩座高塔建築包絡線。
+* 北歐冬季日照不足，採光與保溫為重要條件。
+* 周邊為高密度都市街區、辦公、商業與住宅混合環境。
+* 建築文化參照瑞典粗獷主義與 Stockholm 棕色調立面傳統。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在固定塔樓包絡線內創造多樣住宅配置。
+* 如何降低高層住宅的單調、壓迫與紀念碑感。
+* 如何在低日照氣候中提高住宅採光品質。
+* 如何兼顧施工效率、冬季施工限制與建築品質。
+* 如何使高層住宅同時具有都市地標性與居住溫度。
+Concept
+* Pixelated Tower：像素化高塔。
+* Contemporary Brutalism：當代粗獷主義。
+* Vertical Community：垂直社區。
+* 以外凸與退縮的居住框架，將高塔轉化為立體住宅聚落。
+* 以厚實混凝土框架建立安全、包覆且具雕塑性的居住外殼。
+Strategy
+* 將既定高塔包絡線進行像素化分解。
+* 以外凸客廳與退縮戶外空間交替排列。
+* 使用預鑄外露混凝土模組系統提升施工效率。
+* 以棕色、肋狀、刷紋混凝土呼應 Stockholm 城市立面。
+* 擴大窗面，增加住宅日照與城市視野。
+* 採用單片固定玻璃，降低熱橋。
+* 將自然通風開口隱藏於陽台側牆混凝土肋條中。
+* 將成本節省投入戶型多樣化、材料品質與居住面積提升。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* twin tower
+* building envelope
+* pixelated massing
+* central core
+* elevator core
+* stair core
+* corridor
+* residential unit
+* living room
+* protruding living room
+* withdrawn outdoor space
+* balcony
+* terrace
+* semi-outdoor space
+* deep façade frame
+* precast concrete element
+* concrete rib
+* sandwich panel
+* insulation layer
+* single glass sheet
+* concealed ventilation opening
+* retail space
+* gym
+* guest apartment
+* urban intersection
+* skyline
+* city view
+C2｜Semantic Relations 語意關係
+* Central Core → organizes → Residential Unit
+Spatial Relation
+* Elevator Core → distributes to → Residential Unit
+Circulation Relation
+* Stair Core → links → Floor Levels
+Circulation Relation
+* Corridor → connects → Residential Unit
+Circulation Relation
+* Residential Unit → clusters around → Central Core
+Spatial Relation
+* Living Room → protrudes from → Tower Mass
+Spatial Relation
+* Outdoor Space → withdraws into → Tower Mass
+Spatial Relation
+* Balcony → extends from → Living Room
+Spatial Relation
+* Terrace → opens to → City View
+Perceptual Relation
+* Deep Façade Frame → shelters → Semi-outdoor Space
+Functional Relation
+* Deep Façade Frame → frames → Skyline
+Perceptual Relation
+* Pixelated Massing → transforms → Building Envelope
+Conceptual Relation
+* Protruding Living Room → alternates with → Withdrawn Outdoor Space
+Spatial Relation
+* Precast Concrete Element → constructs → Tower Skin
+Material Relation
+* Concrete Rib → conceals → Ventilation Opening
+Material Relation
+* Sandwich Panel → insulates → Building Envelope
+Environmental Relation
+* Single Glass Sheet → reduces → Thermal Bridge
+Environmental Relation
+* Window Area → increases → Daylight Access
+Environmental Relation
+* Balcony → buffers → Exterior Climate
+Environmental Relation
+* Retail Space → activates → Street Edge
+Functional Relation
+* Gym → supports → Residential Community
+Functional Relation
+* Guest Apartment → supplements → Housing Program
+Functional Relation
+* Brown Concrete Skin → references → Stockholm Façade
+Conceptual Relation
+* Ribbed Concrete → creates → Material Depth
+Perceptual Relation
+* Twin Tower → marks → Urban Intersection
+Perceptual Relation
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 住戶可透過露台、陽台與大面玻璃取得城市景觀與自然採光。
+   * 客廳與半戶外空間相連，使生活活動向城市景觀延伸。
+   * 深框架提供遮蔽、包覆、隱私與高空安全感。
+   * 像素化量體使高塔不再是單調垂直量體，而成為具變化的立體住宅聚落。
+   * 預鑄系統使施工能較不受瑞典冬季低溫干擾。
+   * 成本節省轉化為戶型多樣性、窗面積增加與材料品質提升。
+   * 建築以棕色外露混凝土與粗獷主義語彙形成強烈地標性。
+   * 設計成功將固定包絡線、模組施工、日照需求與高層居住品質整合。

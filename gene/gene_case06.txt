@@ -1,0 +1,139 @@
+﻿Case06｜Mjøstårnet Precedent DNA
+Gene_A｜Conditions 條件
+* 位於挪威 Brumunddal，距 Oslo 約 140 公里。
+* 基地位於 Brumunda 河岸，面向 Lake Mjøsa。
+* 周邊以森林、木材加工產業、湖泊與山谷地景為主要背景。
+* 建築為 18 層高木構混合使用塔樓，高度約 85.4m。
+* 機能包含大廳、接待、餐廳、會議、辦公、旅館、住宅、展覽與公共觀景平台。
+* 旅館部分包含 72 間客房。
+* 住宅位於高層，面向湖景配置陽台。
+* 建築使用約 3,500m³ 木材，材料與專業技術多來自當地。
+* 設計需回應高層木構技術、地方林業產業、永續建築與城市水岸再連結。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何證明大型複合高層建築可以用木材完成。
+* 如何將地方林業、木材加工與建築技術整合為永續實踐。
+* 如何讓 Brumunddal 從被路過的小城轉化為被看見的地標。
+* 如何串聯城市中心、湖岸、公園與公共設施。
+* 如何在旅館、住宅、辦公與公共機能中建立清楚動線與分層秩序。
+Concept
+* Tall Timber Landmark（高層木構地標）。
+* Local Timber Ecosystem（地方木材生態系）。
+* Sustainable Demonstration Tower（永續示範塔）。
+* Mixed-use Vertical Stack（混合使用垂直堆疊）。
+* Lake Mjøsa Gateway（Mjøsa 湖岸門戶）。
+Strategy
+* 採用膠合木（Glulam）與大型木構系統建造 18 層塔樓。
+* 將公共機能置於地面層與頂層，提升城市開放性。
+* 中層配置會議、辦公與旅館，高層配置住宅與陽台。
+* 以中央走廊、樓梯與核心整合旅館客房與垂直交通。
+* 以湖景導向配置住宅、旅館與公共觀景平台。
+* 透過公共泳池、步行與自行車網絡重新連接城市與湖岸。
+* 明確表達木構框架，使建築從遠處即可被辨識為木構建築。
+* 以在地木材與技術降低運輸影響並強化地方產業連結。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* tall timber tower
+* glulam structure
+* timber frame
+* mixed-use tower
+* central corridor
+* hotel room
+* residential unit
+* office floor
+* conference floor
+* restaurant
+* reception lobby
+* public swimming pool
+* exhibition room
+* public viewing terrace
+* balcony
+* lake-facing window
+* elevator core
+* stair core
+* service core
+* mechanical space
+* timber façade
+* glass railing
+* viewing platform
+* riverbank path
+* cycling connection
+* lakefront park
+* public bath
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Hotel Room → aligns along → Central Corridor
+* Residential Unit → occupies → Upper Floors
+* Office Floor → occupies → Middle Floors
+* Public Lobby → occupies → Ground Floor
+* Viewing Terrace → crowns → Tower
+* Public Swimming Pool → adjoins → Tower Base
+* Balcony → projects from → Residential Unit
+* Service Space → clusters near → Central Core
+Circulation Relation
+* Central Corridor → connects → Hotel Room
+* Elevator Core → links → Floor Levels
+* Stair Core → connects → Floor Levels
+* Lobby → distributes to → Vertical Core
+* Cycling Connection → links → City Center
+* Riverbank Path → connects → Lakefront Park
+Functional Relation
+* Public Lobby → welcomes → Visitors
+* Restaurant → supports → Public Use
+* Hotel Room → supports → Hospitality Program
+* Office Floor → supports → Work Program
+* Conference Floor → supports → Event Program
+* Public Swimming Pool → serves → Local Community
+* Viewing Terrace → offers → Public Access
+* Balcony → extends → Residential Unit
+Perceptual Relation
+* Lake-facing Window → frames → Lake Mjøsa
+* Viewing Terrace → overlooks → Brumunddal Landscape
+* Timber Façade → signals → Wooden Construction
+* Balcony → opens to → Lake View
+* Tall Tower → marks → Regional Landmark
+* Wooden Interior → creates → Warm Atmosphere
+Material Relation
+* Glulam Structure → supports → Tower Frame
+* Timber Frame → constructs → High-rise Volume
+* Timber Façade → wraps → Building Envelope
+* Glass Railing → lightens → Balcony Edge
+* Local Timber → forms → Structural System
+Environmental Relation
+* Timber Structure → stores → Carbon
+* Local Timber → reduces → Transport Impact
+* Sustainable Forestry → supports → Timber Supply
+* Wooden Material → improves → Interior Comfort
+* Lakefront Path → encourages → Low-carbon Mobility
+Conceptual Relation
+* Mjøstårnet → demonstrates → Tall Timber Possibility
+* Local Timber Ecosystem → grounds → Sustainable Architecture
+* Mixed-use Stack → creates → Vertical Publicness
+* Lakefront Connection → reconnects → City and Nature
+* Viewing Platform → puts → Brumunddal on the Map
+* Timber Landmark → inspires → Future Wood Construction
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 旅館客人與住戶透過大面窗景、陽台與觀景平台持續接觸湖景與山谷景觀。
+* 公共大廳、餐廳、泳池與觀景平台吸引居民、旅客與訪客使用。
+* 新步行與自行車路徑強化城市中心與 Lake Mjøsa 的連接。
+* 高層住宅與觀景平台提供強烈地標體驗與地方認同。
+* 木質室內提升旅館與公共空間的溫暖、寧靜與舒適感。
+社會評論／媒體回饋
+* 被 CTBUH 認證為當時世界最高木構建築之一。
+* 成為高層木構技術與永續建築的重要示範案例。
+* 使 Brumunddal 獲得國際建築關注與地標辨識度。
+* 被視為木構建築復興與大型木構可行性的代表作品。
+設計者自身回顧與空間操作結果
+* 建築成功展示大型複合用途木構高層的技術可行性。
+* 在地木材、在地製造與在地專業形成完整的永續供應鏈。
+* 約 3,500m³ 木材與健康林業系統形成具象化的低碳建築實踐。
+* 混合使用垂直分層使建築全天候被不同使用者啟動。
+* 公共泳池與湖岸步行網絡改善城市與水岸的關係。
+* 設計者強調此案不是高層木構的唯一藍圖，而是推動永續發展的示範與啟發。

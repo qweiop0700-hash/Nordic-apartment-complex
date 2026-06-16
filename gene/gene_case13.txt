@@ -1,0 +1,120 @@
+﻿Case13｜The Silo Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Copenhagen 的 Nordhavn 港區。
+* 基地屬後工業港灣再開發區，正轉型為新城市區。
+* 原建築為 17 層高舊穀倉，是區域中最大的工業建築之一。
+* 改造後機能包含住宅、公眾餐廳與地面層活動空間。
+* 住宅共 38 戶，包含單層與複層大坪數住宅。
+* 戶型面積約 106–401㎡，部分樓層高度可達 7m。
+* 基地位於港灣第一排，具城市天際線與 Oresund 海岸景觀。
+* 設計需兼顧工業遺產保存、居住轉型、公共開放性與建築性能更新。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何將舊工業穀倉轉化為高品質住宅。
+* 如何保留原有工業精神與混凝土內部空間。
+* 如何使老舊外殼達到現代建築性能標準。
+* 如何避免工業遺產私有化後與城市公共生活脫節。
+* 如何將港區工業記憶轉化為新的城市地標。
+Concept
+* Inside-out Transformation：由內而外的改造。
+* Industrial Heritage Reuse：工業遺產再生。
+* Raw Monumental Living：粗獷紀念性居住。
+* Urban Focal Point：新港區公共焦點。
+* 以新外衣包覆舊結構，保留內部原始混凝土精神。
+Strategy
+* 保留既有高瘦穀倉量體與粗獷混凝土室內。
+* 以鍍鋅鋼板折面外皮作為新的氣候保護層。
+* 將窗框隱藏於既有混凝土牆外側，放大視野。
+* 將不規則原始筒倉空間轉化為 38 戶獨特住宅。
+* 配置落地窗、陽台與景觀露台，引入港灣視野。
+* 頂層設置 360 度景觀公共餐廳。
+* 地面層設計為彈性活動空間。
+* 透過頂部與底部公共機能，使建築全天候保持活躍。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* former grain silo
+* industrial concrete structure
+* monolithic volume
+* galvanized steel façade
+* faceted façade
+* climate shield
+* concrete interior
+* residential apartment
+* multi-level apartment
+* central corridor
+* double core
+* elevator core
+* stair core
+* service core
+* entrance lobby
+* private terrace
+* balcony
+* panoramic window
+* floor-to-ceiling window
+* deep window opening
+* public restaurant
+* mirrored glass box
+* flexible event space
+* harbourfront edge
+* city skyline view
+* Oresund coast view
+C2｜Semantic Relations 語意關係
+* Elevator Core → connects → Floor Levels
+Circulation Relation
+* Stair Core → links → Floor Levels
+Circulation Relation
+* Central Corridor → distributes to → Residential Apartment
+Circulation Relation
+* Double Core → divides → Residential Zones
+Spatial Relation
+* Residential Apartment → surrounds → Service Core
+Spatial Relation
+* Entrance Lobby → mediates between → Core
+Spatial Relation
+* Living Room → connects to → Private Terrace
+Spatial Relation
+* Balcony → extends from → Residential Apartment
+Spatial Relation
+* Private Terrace → opens to → Harbour View
+Perceptual Relation
+* Floor-to-ceiling Window → frames → City Skyline
+Perceptual Relation
+* Deep Window Opening → intensifies → View Framing
+Perceptual Relation
+* Galvanized Steel Façade → wraps → Concrete Structure
+Material Relation
+* Faceted Façade → forms → Climate Shield
+Environmental Relation
+* Concrete Interior → preserves → Industrial Memory
+Conceptual Relation
+* Mirrored Glass Box → crowns → Silo Volume
+Spatial Relation
+* Public Restaurant → occupies → Top Floor
+Functional Relation
+* Flexible Event Space → occupies → Ground Floor
+Functional Relation
+* Public Restaurant → offers → 360-degree View
+Perceptual Relation
+* Ground Floor Event Space → activates → Urban Life
+Functional Relation
+* Top Public Function → opens → Private Building
+Conceptual Relation
+* Bottom Public Function → connects to → City
+Functional Relation
+* Industrial Silo → transforms into → Urban Housing
+Conceptual Relation
+* New Overcoat → protects → Old Structure
+Material Relation
+* Raw Concrete Surface → expresses → Historical Trace
+Conceptual Relation
+* Harbourfront Edge → frames → Building Identity
+Conceptual Relation
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 住戶獲得大尺度樓高、港灣景觀、落地窗與陽台帶來的高品質居住體驗。
+   * 原始混凝土內部創造出粗獷、沉穩且具歷史感的住宅氛圍。
+   * 頂層公共餐廳與地面活動空間使建築不只是住宅，也是城市目的地。
+   * 折面鍍鋅鋼外皮提升建築性能，同時保留港區工業材料感。
+   * 建築成功從「工業廢棄物」轉化為具有公共價值的城市資產。
+   * 新外皮與舊混凝土內部形成「外部更新／內部保存」的清楚改造邏輯。
+   * 港灣第一排位置與雕塑化量體強化 Nordhavn 新區地標性。
+   * 設計結果將工業遺產、私人住宅與公共城市生活整合為新的港灣焦點。

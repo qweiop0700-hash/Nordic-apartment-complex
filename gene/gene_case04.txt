@@ -1,0 +1,150 @@
+﻿Case04｜Turning Torso Precedent DNA
+Gene_A｜Conditions 條件
+* 位於 Malmö Western Harbor（西港區）都市更新區。
+* 鄰近厄勒海峽（Öresund）與連接瑞典、丹麥的跨海大橋。
+* 為 Malmö 港區轉型計畫的重要地標建築。
+* 作為 Bo01 European Housing Expo 展示計畫的一部分。
+* 基地位於兩條主要道路交會節點。
+* 需兼具住宅與辦公混合機能。
+* 需建立港灣新城的城市識別性。
+* 高層住宅需回應海景、城市景觀與風環境條件。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何為港區再生建立具有國際辨識度的都市地標。
+* 如何突破傳統高層住宅塔樓的單調形式。
+* 如何將雕塑概念轉化為可居住建築。
+* 如何在高層建築中同時滿足結構穩定與空間品質。
+* 如何強化住宅與景觀之間的關係。
+Concept
+* Human Movement（人體扭轉）
+* Turning Torso（扭轉身軀）
+* Sculpture as Architecture（雕塑建築化）
+* Vertical Landmark（垂直地標）
+* Dynamic Tower（動態塔樓）
+Strategy
+* 將人體扭轉動作轉譯為建築幾何。
+* 以中央核心作為主要結構與交通系統。
+* 利用九個旋轉單元逐層扭轉形成塔樓。
+* 將濕區集中於核心周圍。
+* 最大化住宅單元景觀視野。
+* 利用外部鋼構脊柱強化高層結構穩定性。
+* 結合辦公、住宅與公共空間形成複合機能。
+* 將建築塑造成港灣天際線地標。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* twisting tower
+* central concrete core
+* external steel spine
+* residential tower
+* office floors
+* mixed-use building
+* sculptural architecture
+* rotating floor plate
+* circular nucleus
+* sky meeting rooms
+* panoramic views
+* reinforced concrete core
+* steel truss
+* cantilever slab
+* aluminium façade
+* glass façade
+* vertical landmark
+* waterfront tower
+* harbour skyline
+* public lobby
+* observation space
+* service nucleus
+* elevator core
+* staircase core
+* tower unit
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Central Core → organizes → Rotating Floor Plates
+* Tower Units → stack into → Vertical Composition
+* Residential Floors → surround → Concrete Core
+* Public Lobby → anchors → Ground Level
+* Meeting Rooms → occupy → Tower Top
+* Parking Building → connects to → Main Tower
+Circulation Relation
+* Elevator Core → connects → All Floors
+* Stair Core → supports → Vertical Movement
+* Entrance Path → leads to → Lobby
+* Corridor System → distributes → Residential Units
+* Service Core → supports → Building Operations
+Functional Relation
+* Lower Floors → accommodate → Office Functions
+* Upper Floors → accommodate → Residential Functions
+* Core Zone → contains → Kitchens and Bathrooms
+* Top Floors → contain → Meeting Facilities
+* Secondary Building → contains → Parking and Services
+Structural Relation
+* Concrete Core → stabilizes → Tower Structure
+* Steel Spine → reinforces → Core System
+* Steel Struts → transfer → Shear Forces
+* Floor Slabs → connect to → Structural Core
+* External Truss → supports → Twisting Geometry
+Environmental Relation
+* Rotating Form → optimizes → Views
+* High-rise Position → captures → Daylight
+* Waterfront Location → provides → Panoramic Landscape
+* Compact Core → maximizes → Perimeter Exposure
+* Glass Façade → enhances → Visual Connection
+Perceptual Relation
+* Twisting Geometry → creates → Dynamic Expression
+* Sculptural Form → generates → Urban Identity
+* Vertical Tower → emphasizes → Landmark Presence
+* Curved Façade → softens → Tower Mass
+* Rotating Floors → express → Movement
+Material Relation
+* Reinforced Concrete → forms → Core Structure
+* Steel Truss → forms → External Spine
+* Aluminium Panels → form → Façade Skin
+* Glass Windows → provide → Transparency
+* Granite → defines → Entrance Landscape
+Conceptual Relation
+* Human Body → inspires → Tower Geometry
+* Sculpture → transforms into → Habitable Building
+* Rotation → symbolizes → Motion
+* Landmark → represents → Urban Transformation
+* Vertical Architecture → celebrates → Engineering Innovation
+* Dynamic Form → challenges → Conventional Skyscrapers
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住宅住戶享有360度城市與海景視野。
+* 高層住宅因旋轉樓層而獲得多樣化景觀方向。
+* 建築成為 Malmö 最重要的辨識地標。
+* 公共與私人機能透過垂直分層有效共存。
+* 港區居民與遊客共同將其視為城市象徵。
+________________
+
+
+社會評論／媒體回饋
+* 被視為全球最具代表性的扭轉高層建築之一。
+* 成為 Malmö 城市品牌的重要象徵。
+* 改變全球對高層住宅形式的想像。
+* 被認為是雕塑與建築融合的重要案例。
+* 榮獲 CTBUH 2015「10 Year Award」。
+* 對後續參數化與動態高層建築設計產生深遠影響。
+________________
+
+
+設計者自身回顧與空間操作結果
+* 成功將雕塑《Turning Torso》轉化為可居住建築。
+* 九個旋轉單元創造獨特且可辨識的城市天際線。
+* 中央核心＋外部鋼脊柱系統證明複雜造型仍可有效建造。
+* 混合辦公與住宅機能提升建築全天候使用效率。
+* 建立高層住宅與景觀視野最大化的新模式。
+* 成功展現結構工程、建築設計與城市地標三者整合的可能性。
+* 成為21世紀初高層住宅設計的重要里程碑案例。

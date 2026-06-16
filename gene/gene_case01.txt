@@ -1,0 +1,150 @@
+﻿Case01｜VM Houses Precedent DNA
+Gene_A｜Conditions 條件
+* 位於 Copenhagen Orestad 新興都市開發區。
+* 基地鄰接大片開放綠地與自然景觀。
+* 高密度住宅開發需求。
+* 希望兼顧採光、視野與居住隱私。
+* 周邊住宅開發逐漸增加，需避免戶戶對視問題。
+* 基地尺度較大，適合大型集合住宅配置。
+* 居民族群多元，需要不同住宅類型。
+* 追求突破傳統板式集合住宅模式。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 傳統集合住宅容易產生互相對視問題。
+* 長走廊住宅缺乏自然採光與空間品質。
+* 單一住宅類型無法回應多樣生活模式。
+* 高密度住宅常犧牲景觀與戶外生活品質。
+* 如何讓集合住宅具有個體性與辨識度。
+Concept
+* V & M Geometry
+* Diagonal Living
+* Light + Privacy + View
+* Housing Mosaic
+* Contemporary Life
+* Reinterpreted Unité d’Habitation
+* Flexible Housing Typology
+* Spatial Diversity
+Strategy
+* 利用V形與M形量體創造斜向視野。
+* 建築中央內凹避免直接對視。
+* 發展超過80種住宅單元類型。
+* 將公共走廊縮短並引入端部自然採光。
+* 利用雙層挑高空間提升居住品質。
+* 將主要生活空間朝向景觀面配置。
+* 發展大型三角陽台作為戶外延伸空間。
+* 以共享設施建立社區交流節點。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* V-shaped block
+* M-shaped block
+* diagonal slab
+* central corridor
+* double-height space
+* triangular balcony
+* panoramic view
+* housing module
+* residential cluster
+* shared corridor
+* rooftop terrace
+* community room
+* mixed-use podium
+* vertical core
+* housing diversity
+* duplex apartment
+* open landscape
+* daylight penetration
+* corner unit
+* social node
+* residential mosaic
+* flexible plan
+* short corridor
+* view corridor
+* contemporary housing
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Housing Units → align along → Exterior Façade
+* Shared Corridor → connects → Residential Units
+* Community Room → acts as → Social Core
+* Rooftop Terrace → extends → Shared Activities
+* Corner Spaces → provide → Enhanced Views
+Circulation Relation
+* Vertical Core → distributes → Housing Clusters
+* Short Corridors → connect → Apartments
+* Central Corridor → organizes → Residential Access
+* Stair + Elevator → serve → Shared Community
+* Building Fold → creates → Circulation Nodes
+Functional Relation
+* Ground Floor → accommodates → Commercial Functions
+* Upper Floors → accommodate → Residential Units
+* Community Room → supports → Resident Interaction
+* Rooftop Terrace → supports → Recreation
+* Shared Facilities → strengthen → Collective Living
+Environmental Relation
+* V/M Geometry → improves → Daylight Access
+* Diagonal Layout → enhances → Privacy
+* Open Landscape → provides → Long Views
+* Double Height Space → increases → Natural Light
+* Triangular Balconies → support → Outdoor Living
+Perceptual Relation
+* Folded Form → creates → Strong Identity
+* Triangular Balconies → generate → Dynamic Façade
+* Double Height Interiors → create → Spaciousness
+* Diagonal Views → increase → Openness
+* Repeated Modules → establish → Architectural Rhythm
+Material Relation
+* Glass Façade → maximizes → Transparency
+* Steel Balconies → form → Exterior Expression
+* Timber Flooring → provides → Warmth
+* Metal Structure → supports → Balcony System
+* Large Openings → frame → Landscape
+Conceptual Relation
+* Housing → becomes → Mosaic of Lifestyles
+* Corridor → becomes → Social Connector
+* Geometry → solves → Privacy Issues
+* Balcony → becomes → Outdoor Room
+* Diversity → replaces → Standardization
+* Residential Block → transforms into → Individualized Community
+* Architecture → balances → Density and Quality
+* Building Form → emerges from → Light + View + Privacy
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住戶享有多方向景觀與自然採光。
+* 三角陽台成為日常戶外活動場所。
+* 不同戶型吸引多元生活型態居民。
+* 雙層挑高空間增加居住彈性。
+* 共享空間促進社區交流。
+* 建築形體提升居住辨識度與認同感。
+________________
+
+
+社會評論／媒體回饋
+* 被視為 BIG 住宅研究的重要起點。
+* 成為 Orestad 地區最具代表性的住宅案例之一。
+* 被廣泛研究作為高密度住宅創新典範。
+* 成功回應採光、視野與隱私三者平衡問題。
+* 被認為是對 Le Corbusier Unité d’Habitation 的當代詮釋。
+* 展現集合住宅戶型多樣化的新方向。
+________________
+
+
+設計者自身回顧與空間操作結果
+* V形與M形量體成功創造斜向景觀關係。
+* 中央走廊長度縮短並獲得自然採光改善。
+* 超過80種住宅類型回應不同家庭需求。
+* 雙層挑高與大面開窗提升居住品質。
+* 三角陽台成為建築最具辨識性的設計語彙。
+* 成功將高密度住宅轉化為具個體差異的住宅群落。
+* 建立BIG後續住宅作品（Mountain Dwellings、8 House）的原型基因。
+* 成為「Light + Privacy + View」住宅設計策略的重要代表案例。

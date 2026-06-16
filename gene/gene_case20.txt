@@ -1,0 +1,125 @@
+﻿Case20｜The Iceberg Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Aarhus Ø 新港區，基地臨 Aarhus Bay。
+* 原為工業貨櫃港，正轉型為高密度濱水城市新區。
+* 建築機能為集合住宅，共 208 戶。
+* 基地具海景、港灣、步道、沙灘與自行車活動空間。
+* 設計需回應濱水景觀、日照、通風與高密度住宅需求。
+* 原都市計畫偏向封閉街廓，本案需避免內向封閉感。
+* 建築需兼顧城市尺度、港口尺度與居住私密性。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何讓每戶住宅獲得海景與充足日照。
+* 如何避免封閉街廓遮蔽視線與形成壓迫感。
+* 如何在大型住宅量體中建立社區感與居住多樣性。
+* 如何使住宅群同時回應城市與港口環境。
+Concept
+* 以「冰山」作為建築意象。
+* 將封閉住宅街廓轉化為開放、破碎、可穿透的濱水聚落。
+* 透過尖峰與谷地形成漂浮冰山般的視覺折射。
+* 使城市與港灣在同一建築語彙中交會。
+Strategy
+* 採用四組 L 型翼區配置。
+* 以鋸齒狀切割量體，創造視覺通道、採光縫隙與海景視線。
+* 屋頂高低起伏形成 peaks and valleys。
+* 低處壓向街道，回應港口尺度。
+* 高處向上拉升，形成都市地標。
+* 透過走廊、梯廳、電梯與樓梯組織住宅單元。
+* 以陽台、露台、開放平台建立室內外過渡。
+* 配置小型公寓、雙層 townhouse、頂層 penthouse 等多樣戶型。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* L-shaped wing
+* jagged volume
+* peaked roof
+* valley roof
+* mountain-like massing
+* residential unit
+* corridor
+* elevator core
+* stair core
+* lobby
+* balcony
+* terrace
+* roof platform
+* open platform
+* ground-level public space
+* waterfront promenade
+* harbour-facing space
+* basement parking
+* triangular window
+* floor-to-ceiling window
+* glass railing
+* void
+* light well
+* sloped roof interior
+* central stair
+* double-height space
+C2｜Semantic Relations 語意關係
+* Corridor → connects → Residential Unit
+Circulation Relation
+* Elevator Core → distributes to → Residential Unit
+Circulation Relation
+* Stair Core → links → Floor Levels
+Circulation Relation
+* Lobby → mediates between → Core
+Spatial Relation
+* Residential Unit → clusters along → Corridor
+Spatial Relation
+* Residential Unit → surrounds → Vertical Core
+Spatial Relation
+* Balcony → extends from → Residential Unit
+Spatial Relation
+* Balcony → opens to → Harbour View
+Perceptual Relation
+* Terrace → supports → Outdoor Staying
+Functional Relation
+* Open Platform → separates → Building Wings
+Spatial Relation
+* Open Platform → enables → Daylight
+Environmental Relation
+* Open Platform → enables → Ventilation
+Environmental Relation
+* L-shaped Wing → frames → Street Space
+Spatial Relation
+* Street Space → opens toward → Water
+Perceptual Relation
+* Jagged Volume → creates → Visual Passage
+Perceptual Relation
+* Peaked Roof → forms → Landmark Image
+Conceptual Relation
+* Valley Roof → lowers toward → Street Level
+Spatial Relation
+* Mountain-like Massing → expresses → Settlement Image
+Conceptual Relation
+* Triangular Window → introduces → Natural Light
+Environmental Relation
+* Floor-to-ceiling Window → frames → Sea View
+Perceptual Relation
+* Glass Railing → lightens → Building Mass
+Perceptual Relation
+* Ground-level Public Space → connects to → Waterfront Promenade
+Functional Relation
+* Basement Parking → supports → Residential Unit
+Functional Relation
+* Vertical Core → anchors → Housing Cluster
+Spatial Relation
+* Sloped Roof Interior → enhances → Spatial Height
+Perceptual Relation
+* Central Stair → connects → Double-height Space
+Circulation Relation
+* Double-height Space → increases → Visual Continuity
+Perceptual Relation
+* White Metal Surface → wraps → Building Volume
+Material Relation
+* Timber Floor → softens → White Interior
+Material Relation
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 住戶可透過陽台、露台與大面開窗獲得海景、採光與戶外停留機會。
+   * 量體切割讓後排住宅也能取得視線通道與水岸景觀。
+   * 走廊、梯廳與垂直核心建立清楚的公共、半公共、私人層級。
+   * 開放平台與量體空隙提供社交、停留、通風與視覺緩衝。
+   * 山形屋頂與白色量體形成強烈地標性與濱海社區識別。
+   * 室內以白牆、木地板、大面開窗營造明亮、寧靜、放鬆的居住感。
+   * 建築由單一住宅 block 轉化為具社群感的濱水聚落。
+   * 多樣戶型與租售混合有助於形成社會多元的生活社區。

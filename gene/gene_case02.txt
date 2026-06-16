@@ -1,0 +1,148 @@
+﻿Case02｜8 House Precedent DNA
+Gene_A｜Conditions 條件
+* 位於 Copenhagen Orestad 新市鎮邊緣。
+* 基地鄰接運河、水岸綠地與 Kalvebod Fælled 保護區。
+* 屬大型混合使用開發案（61,000㎡）。
+* 包含住宅、聯排住宅、辦公、商業等複合機能。
+* 基地尺度大，需要建立社區認同與人本尺度。
+* 周邊屬新興都市擴張區，缺乏成熟街區生活。
+* 面臨高密度開發與生活品質兼顧的課題。
+* 希望將郊區住宅生活與都市活力整合於同一建築中。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在大型住宅開發中維持鄰里尺度與社區感。
+* 如何避免傳統封閉街廓造成單調與隔離。
+* 如何整合住宅、商業與辦公機能。
+* 如何讓高密度住宅仍保有戶外生活品質。
+* 如何創造促進居民交流的立體社區。
+Concept
+* Three-Dimensional Neighborhood（三維社區）
+* Urban Village（都市聚落）
+* Figure Eight（8字形）
+* Vertical Street（垂直街道）
+* Architectural Alchemy（建築煉金術）
+* Social Connectivity（社會連結）
+Strategy
+* 將街道系統延伸至建築內部。
+* 建立連續可步行與自行車通行的坡道。
+* 將住宅、商業與辦公分層配置。
+* 利用8字形量體圍塑共享庭院。
+* 透過退縮量體增加採光與通風。
+* 將聯排住宅引入大型集合住宅。
+* 建立跨樓層的公共交流空間。
+* 以綠屋頂連結建築與周邊自然地景。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* figure-eight form
+* perimeter block
+* vertical street
+* continuous promenade
+* bicycle circulation
+* courtyard housing
+* townhouse
+* apartment housing
+* mixed-use development
+* shared courtyard
+* roof garden
+* sloping roof
+* community terrace
+* pedestrian network
+* public pathway
+* housing cluster
+* stepped section
+* social platform
+* urban village
+* open landscape
+* residential street
+* circulation loop
+* green roof
+* community node
+* waterfront housing
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Housing Units → surround → Central Courtyard
+* Townhouses → integrate with → Apartment Blocks
+* Courtyard → acts as → Community Core
+* Roof Gardens → extend → Residential Environment
+* Shared Spaces → connect → Different Housing Types
+Circulation Relation
+* Continuous Promenade → links → Entire Building
+* Bicycle Path → connects → Ground Floor and Roof
+* Public Corridor → distributes → Housing Clusters
+* Vertical Core → serves → Residential Groups
+* Circulation Loop → organizes → Community Movement
+Functional Relation
+* Ground Floor → accommodates → Retail and Offices
+* Upper Levels → accommodate → Residential Programs
+* Courtyard → supports → Social Activities
+* Roof Terrace → supports → Community Gathering
+* Shared Facilities → strengthen → Resident Interaction
+Environmental Relation
+* Building Opening → allows → Light and Air Penetration
+* Stepped Form → improves → Sunlight Access
+* Green Roof → reduces → Urban Heat Island Effect
+* Waterfront Location → provides → Landscape Views
+* Large Terraces → support → Outdoor Living
+Perceptual Relation
+* Figure Eight Form → creates → Strong Identity
+* Sloping Roofscape → evokes → Landscape Continuity
+* Continuous Path → enhances → Community Awareness
+* Courtyard Space → fosters → Sense of Belonging
+* Mixed Typologies → generate → Urban Diversity
+Material Relation
+* Metal Panels → form → Building Envelope
+* Glass Facades → provide → Transparency
+* Concrete Structure → supports → Large Scale Development
+* Green Roofs → integrate → Nature and Architecture
+* Balconies → mediate → Indoor and Outdoor Space
+Conceptual Relation
+* Building → becomes → Three-Dimensional Neighborhood
+* Circulation → becomes → Social Infrastructure
+* Housing → merges with → Urban Life
+* Retail → activates → Street Edge
+* Green Roof → connects → Adjacent Landscape
+* Community Interaction → expands through → Vertical Streets
+* Mixed Use → creates → Urban Vitality
+* Architecture → functions as → Social Framework
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 居民可步行或騎自行車由地面抵達高層住宅。
+* 街道式坡道促進住戶之間的偶遇與交流。
+* 中庭與公共平台成為社區活動核心。
+* 聯排住宅與公寓住戶共享同一社區系統。
+* 大型露台與綠屋頂提高戶外生活品質。
+* 建築形成跨樓層、多世代的社區網絡。
+________________
+
+
+社會評論／媒體回饋
+* 被視為 BIG 最具代表性的住宅作品之一。
+* 成功實踐「三維社區（3D Neighborhood）」概念。
+* 被廣泛研究作為高密度住宅與社區營造案例。
+* 被認為突破傳統街廓住宅與塔樓住宅的界線。
+* 成為 Orestad 發展的重要地標建築。
+* 展現住宅、商業與辦公混合使用的新模式。
+________________
+
+
+設計者自身回顧與空間操作結果
+* 成功將街道生活延伸至建築立體空間。
+* 連續坡道系統使社交活動不再侷限於地面層。
+* 住宅、辦公與商業獲得最適合的配置位置。
+* 8字形量體有效改善採光、通風與景觀條件。
+* 建築從單一物件轉化為可被居住與漫遊的社區。
+* 實踐 BIG 所提出的「Architectural Alchemy」概念。
+* 建立集合住宅由建築物轉變為「都市聚落」的新典範。
+* 成為全球高密度混合住宅開發的重要參考案例。

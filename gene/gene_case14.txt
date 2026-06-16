@@ -1,0 +1,121 @@
+﻿Case14｜Ski Tower Precedent DNA
+Gene_A｜Conditions 條件
+* 位於挪威 Oslo 外圍 Ski 的 Magasinparken 新區。
+* 基地鄰近 Ski station 與 Follo line 新交通樞紐。
+* 原基地曾為軍事區，周邊包含受保護的舊 Magasin 建築。
+* 建築為四棟點式住宅塔之一，共 9 層。
+* 每層約 4–6 戶，頂層設私人屋頂露台。
+* 周邊為低密度住宅、開放綠地與公共景觀區。
+* 設計需兼顧新區地標性、住宅私密性、戶外生活與景觀連結。
+* 外部框架材料塗覆碎 Olivine stone，具自然吸附 CO₂ 的環境意涵。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何使點式住宅塔避免單一正背面與量體僵硬感。
+* 如何在高密度住宅中提供充足戶外生活空間。
+* 如何讓立面、結構與私人露台整合為同一系統。
+* 如何回應低密度開放地景與新住宅區的社區尺度。
+* 如何以材料策略加入環境永續意涵。
+Concept
+* Exo-skeleton Housing：外骨骼住宅。
+* Organic Point Tower：柔性點式住宅塔。
+* Outdoor Living Layer：戶外生活層。
+* 建築由內層溫暖木質住宅與外層格網框架共同組成。
+* 以外部框架創造介於室內與城市景觀之間的半戶外居住界面。
+Strategy
+* 以外部 exo-skeleton 框架包覆整棟建築。
+* 在木質內立面與外部格網之間形成連續露台帶。
+* 將客廳、餐廳與廚房直接延伸至私人戶外空間。
+* 以不規則窗龕與框架分隔不同戶外平台。
+* 將住宅單元圍繞中央核心配置，提高平面效率。
+* 將衛浴與設備空間靠近核心，釋放外圍生活空間。
+* 以圓角輪廓與環繞露台削弱塔樓正背面差異。
+* 頂層以光井與屋頂露台強化採光、身份與景觀體驗。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* point tower
+* central core
+* elevator core
+* stair core
+* entrance lobby
+* floor lobby
+* corridor
+* residential unit
+* living room
+* dining room
+* kitchen
+* bedroom
+* bathroom
+* private balcony
+* private terrace
+* roof terrace
+* wraparound terrace
+* semi-outdoor platform
+* exo-skeleton
+* outer grid
+* timber façade
+* glass railing
+* structural frame
+* window niche
+* light shaft
+* penthouse
+* rounded corner
+* pedestrian platform
+* outdoor landscape
+C2｜Semantic Relations 語意關係
+* Residential Unit → surrounds → Central Core
+Spatial Relation
+* Elevator Core → distributes to → Residential Unit
+Circulation Relation
+* Stair Core → links → Floor Levels
+Circulation Relation
+* Floor Lobby → mediates between → Central Core
+Spatial Relation
+* Corridor → connects → Residential Unit
+Circulation Relation
+* Living Room → opens to → Private Terrace
+Perceptual Relation
+* Dining Room → connects to → Wraparound Terrace
+Spatial Relation
+* Kitchen → adjoins → Outdoor Platform
+Spatial Relation
+* Bathroom → clusters near → Central Core
+Functional Relation
+* Service Space → clusters near → Central Core
+Functional Relation
+* Exo-skeleton → wraps → Timber Façade
+Material Relation
+* Outer Grid → frames → Private Terrace
+Spatial Relation
+* Outer Grid → partitions → Outdoor Platform
+Functional Relation
+* Glass Railing → lightens → Terrace Edge
+Perceptual Relation
+* Window Niche → protrudes from → Outer Grid
+Spatial Relation
+* Window Niche → defines → Interior Space
+Functional Relation
+* Wraparound Terrace → extends → Living Space
+Functional Relation
+* Rounded Corner → broadens → View Angle
+Perceptual Relation
+* Light Shaft → introduces → Daylight
+Environmental Relation
+* Light Shaft → frames → Night Sky
+Perceptual Relation
+* Roof Terrace → crowns → Penthouse
+Spatial Relation
+* Olivine Cladding → binds → CO₂
+Environmental Relation
+* Exo-skeleton → creates → No Front-or-Back Expression
+Conceptual Relation
+* Outdoor Living Layer → mediates → Interior and Exterior
+Conceptual Relation
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 每戶透過環繞露台、私人陽台與大面開窗延伸日常生活。
+   * 外骨骼框架將露台、立面與結構整合，形成清楚的建築身份。
+   * 不規則窗龕創造多樣室內空間與戶外平台分隔。
+   * 住宅主要生活空間面向外部景觀，提高採光、視野與居住彈性。
+   * 中央核心與外圍住宅配置維持高效率平面組織。
+   * 溫暖木質內層與灰色外部框架形成柔和而具秩序的居住表情。
+   * Olivine 石材塗層賦予外部框架環境回應與空氣淨化意象。
+   * 建築成功將點式塔樓轉化為具戶外生活層、景觀導向與無正背面的住宅原型。

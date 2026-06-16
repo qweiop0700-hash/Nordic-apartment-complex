@@ -1,0 +1,144 @@
+﻿Case12｜Krøyers Plads Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Copenhagen 港灣核心區 Krøyers Plads。
+* 基地位於 Nyhavn、Royal Playhouse 與 Noma 附近的重要濱水地段。
+* 原基地為歷史港區倉庫群之間的都市缺口（urban gap）。
+* 周邊為超過 300 年歷史的港灣倉庫建築群。
+* 開發歷經長期公共討論與政治審議，多項提案曾遭否決。
+* 計畫包含 3 棟住宅建築，共 105 戶住宅。
+* 地面層配置餐廳、商店與超市等公共機能。
+* 基地直接面向港灣與木棧道步行系統。
+* 設計需回應歷史文脈、公共意見、港灣景觀與現代住宅需求。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在歷史港區中植入大型住宅開發而不破壞原有都市紋理。
+* 如何回應市民、鄰里與政治單位對新建築的高度敏感性。
+* 如何在現代住宅需求與歷史港灣意象之間取得平衡。
+* 如何延續港區公共生活與濱水活動。
+Concept
+* Hyper-democratic Architecture（超民主式設計）。
+* Contemporary Warehouse（當代倉庫）。
+* Contextual Reinvention（脈絡再詮釋）。
+* Harbour Heritage Translation（港灣歷史轉譯）。
+* 以現代建築語言重新演繹哥本哈根港區倉庫原型。
+Strategy
+* 將大型開發拆解為三棟獨立量體。
+* 延續港灣倉庫常見的山牆（Gable）與折板屋頂語彙。
+* 保留倉庫建築的厚重感、尺度與材料特質。
+* 建立中央共享庭園與公共廣場系統。
+* 地面層引入商業機能活化街道。
+* 利用濱水步道串聯基地與城市公共空間。
+* 透過退縮廣場與開放空間降低開發壓迫感。
+* 住宅主要朝向港灣與中央景觀配置。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* residential block
+* housing unit
+* apartment
+* double core
+* elevator core
+* stair core
+* entrance lobby
+* central courtyard
+* shared garden
+* public plaza
+* waterfront promenade
+* pedestrian path
+* retail space
+* restaurant
+* supermarket
+* underground parking
+* podium
+* private balcony
+* terrace
+* folded roof
+* gable roof
+* brick façade
+* glass façade
+* harbour edge
+* street corner plaza
+* landscape axis
+* green buffer
+* waterfront platform
+________________
+
+
+C2｜Semantic Relations（語意關係）
+Spatial Relation
+* Residential Blocks → surround → Central Courtyard
+* Shared Garden → occupies → Site Center
+* Residential Unit → faces → Harbour Front
+* Residential Unit → overlooks → Central Courtyard
+* Retail Space → lines → Public Plaza
+* Waterfront Promenade → borders → Harbour Edge
+* Underground Parking → connects → Residential Blocks
+* Folded Roof → crowns → Residential Block
+* Terrace → projects from → Housing Unit
+Circulation Relation
+* Pedestrian Path → connects → Residential Entrances
+* Landscape Axis → links → Central Courtyard
+* Elevator Core → serves → Residential Unit
+* Stair Core → connects → Floor Levels
+* Public Plaza → distributes to → Building Entrances
+* Waterfront Promenade → extends → Urban Walkway
+Functional Relation
+* Central Courtyard → supports → Community Interaction
+* Public Plaza → accommodates → Public Activity
+* Retail Space → activates → Ground Floor
+* Underground Parking → supports → Residential Program
+* Shared Garden → provides → Recreational Space
+* Entrance Lobby → mediates → Public and Private Space
+Perceptual Relation
+* Folded Roof → recalls → Historic Warehouse
+* Gable Roof → references → Harbour Architecture
+* Terrace → frames → Waterfront View
+* Glass Façade → captures → Daylight
+* Harbour Edge → enhances → Place Identity
+* Waterfront Promenade → offers → Harbour Experience
+Material Relation
+* Brick Façade → reinterprets → Historic Warehouse Materiality
+* Glass Façade → contrasts with → Brick Surface
+* Timber Promenade → extends → Public Waterfront
+* Metal Frame → supports → Large Openings
+Conceptual Relation
+* Three Residential Blocks → reinterpret → Warehouse Typology
+* Folded Roof → translates → Historical Form
+* Public Plaza → strengthens → Urban Connectivity
+* Central Courtyard → creates → Shared Community Core
+* Hyper-democratic Process → shapes → Architectural Form
+* Waterfront Development → preserves → Harbour Identity
+Urban Context Relation (新分類)
+說明：描述建築與歷史都市紋理之間的關係。
+* Residential Blocks → respond to → Historical Warehouse Scale
+* Building Height → adapts to → Neighbourhood Context
+* Public Space Network → integrates → Harbour District
+* Corner Plaza → anchors → Urban Intersection
+* Waterfront Promenade → connects → City and Harbour
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 居民日常活動圍繞中央庭園、入口廣場與濱水步道展開。
+* 地面層商業空間提高街道活動與公共停留頻率。
+* 濱水木棧道成為居民與遊客的重要休憩場所。
+* 中央共享景觀促進跨棟住戶交流與社區認同。
+* 住宅露台與港灣景觀形成高度使用的半戶外生活空間。
+社會評論／媒體回饋
+* 被視為哥本哈根港區更新的重要示範案例。
+* 因成功回應歷史脈絡與市民參與而獲得高度評價。
+* 被認為避免了大型住宅開發常見的尺度衝突問題。
+* 獲得 Nordic Eco-label 認證，兼具環境與都市品質。
+設計者自身回顧與空間操作結果
+* 超民主（Hyper-democratic）設計流程成功降低社會爭議。
+* 三棟量體策略有效消化大型開發規模。
+* 倉庫語彙的現代轉譯建立新舊城市景觀的連續性。
+* 公共空間、商業活動與住宅機能形成互補關係。
+* 成功將港灣工業遺產轉化為具當代居住價值與公共性的濱水社區。
+* 建築最終成為哥本哈根歷史港區再生的重要城市節點。

@@ -1,0 +1,139 @@
+﻿🧬 Case16｜Kajstaden Tall Timber Building Precedent DNA
+Gene_A｜Conditions 條件
+* 位於瑞典 Västerås 市 Öster Mälarstrand 水岸新興住宅區。
+* 基地臨近 Lake Mälaren、碼頭步道（quayside promenade）與公共廣場。
+* 屬於城市中心向水岸延伸的新住宅街廓開發。
+* 建築機能為集合住宅，共九層樓，包含架高地面層與挑高頂層住宅。
+* 周邊連接 Mälarparken 與 Notuddsparken 綠帶系統。
+* 設計需兼顧水岸景觀、都市住宅密度與永續建築目標。
+* 作為瑞典大型木構高層住宅示範案例。
+* 以降低建築產業碳排放、提高能源效率與可回收性為核心目標。
+* 配置共享電動船系統與智慧物流冷藏室等新型住宅服務設施。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何降低建築產業對氣候變遷的影響。
+* 如何以木構系統實現高層集合住宅。
+* 如何提升住宅居住健康性與環境品質。
+* 如何在高密度住宅中維持景觀、採光與生活舒適性。
+* 如何建立可拆解、可循環的建築系統。
+Concept
+* Climate-conscious Architecture（氣候意識建築）。
+* Tall Timber Housing（高層木構住宅）。
+* Circular Construction（循環建築）。
+* Healthy Living Environment（健康居住環境）。
+* 將永續技術與水岸生活結合為新世代住宅原型。
+Strategy
+* 採用實木結構（Solid Timber）與膠合木（Glulam）系統。
+* 利用 CNC 精密加工提高施工效率與氣密性能。
+* 採用機械式螺栓接合，提升拆解與回收可能性。
+* 將主要生活空間配置於外牆側取得湖景與自然採光。
+* 集中垂直核心與公共入口空間，提高動線效率。
+* 透過模組化木構系統縮短工期與減少工地干擾。
+* 建立水岸住宅、綠地與公共步道的整體生活網絡。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* timber frame
+* solid timber structure
+* glulam structure
+* CNC-milled timber
+* residential unit
+* living room
+* bedroom
+* kitchen
+* bathroom
+* storage space
+* central lobby
+* entrance hall
+* corridor
+* elevator core
+* stair core
+* balcony
+* floor-to-ceiling window
+* waterfront façade
+* double-height penthouse
+* elevated ground floor
+* timber façade
+* vertical balcony frame
+* lakeside promenade
+* public square
+* green corridor
+* electric boat sharing station
+* delivery cold room
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Residential Unit → aligns along → Exterior Façade
+* Balcony → projects from → Residential Unit
+* Living Room → faces → Waterfront
+* Bedroom → adjoins → Exterior Wall
+* Corridor → extends from → Central Lobby
+* Elevator Core → occupies → Building Center
+* Stair Core → anchors → Circulation Hub
+* Double-height Penthouse → occupies → Top Floor
+* Elevated Ground Floor → separates → Street Level
+Circulation Relation
+* Central Lobby → distributes to → Corridor
+* Corridor → connects → Residential Unit
+* Elevator Core → links → Floor Levels
+* Stair Core → connects → Floor Levels
+* Entrance Hall → transitions to → Residential Unit
+Functional Relation
+* Lobby → serves → Residential Community
+* Storage Space → supports → Residential Unit
+* Bathroom → clusters near → Service Zone
+* Kitchen → clusters near → Service Zone
+* Delivery Cold Room → supports → Food Delivery
+* Electric Boat Sharing Station → supports → Waterfront Mobility
+Perceptual Relation
+* Floor-to-ceiling Window → frames → Lake View
+* Balcony → overlooks → Waterfront Landscape
+* Timber Façade → conveys → Warmth
+* Vertical Balcony Frame → emphasizes → Building Height
+* Waterfront Façade → opens to → Natural Scenery
+Material Relation
+* Timber Structure → forms → Building Frame
+* Glulam Structure → reinforces → Timber Frame
+* CNC-milled Timber → improves → Construction Precision
+* Mechanical Joint → connects → Timber Element
+* Timber Façade → wraps → Residential Volume
+Environmental Relation
+(描述建築與環境性能之關係)
+* Timber Structure → reduces → Carbon Emissions
+* Airtight Envelope → improves → Energy Efficiency
+* Exterior Window → introduces → Natural Daylight
+* Timber Material → enhances → Indoor Air Quality
+* Timber Material → improves → Acoustic Comfort
+* Mechanical Joint → enables → Material Recycling
+Conceptual Relation
+* Tall Timber Building → demonstrates → Sustainable Housing
+* Circular Construction → supports → Climate Responsibility
+* Waterfront Housing → integrates → Urban Nature
+* Timber Technology → redefines → High-rise Construction
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住戶透過陽台、落地窗與湖景建立強烈的自然連結。
+* 公共入口與大廳成為社區交流與日常互動節點。
+* 水岸步道、公園與共享交通系統提升戶外活動頻率。
+* 高品質採光與景觀提升居住舒適度與停留意願。
+社會評論／媒體回饋
+* 被視為瑞典木構高層住宅的重要示範案例。
+* 成為氣候友善建築與低碳住宅的代表作品。
+* 展示木構建築可作為高密度都市住宅的可行替代方案。
+* 常被引用於歐洲大型木構住宅研究與永續建築討論。
+設計者回顧與空間操作結果
+* 實木結構較混凝土減少約 550 噸 CO₂ 排放。
+* CNC 木構系統使每層結構平均約三天即可完成組裝。
+* 機械接合系統成功建立可拆解與循環再利用的建築模式。
+* 木構材料同時提升能源效率、室內空氣品質與聲學表現。
+* 建築成功整合永續技術、水岸生活與高層住宅需求，成為氣候意識建築的重要原型。

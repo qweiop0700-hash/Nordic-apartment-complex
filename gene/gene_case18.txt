@@ -1,0 +1,118 @@
+﻿Case18｜Puukuokka Precedent DNA
+Gene_A｜Conditions 條件
+* 位於芬蘭 Jyväskylä 市 Kuokkala 郊區。
+* 鄰近 OOPEAA 設計的 Kuokkala Church，形成社區焦點。
+* 建築為三棟多層木構集合住宅，共 184 戶。
+* Puukuokka One 為芬蘭第一棟八層高木構公寓。
+* 基地位於低密度街道、住宅區與林地交界。
+* 周邊具森林、丘陵、湖泊與自然景觀資源。
+* 設計需回應環保住宅、可負擔住宅、社會穩定社區與高品質居住需求。
+* 採用 CLT 預鑄模組系統，需兼顧施工效率、能源效率與木構技術表現。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何以木構系統實現高層集合住宅。
+* 如何在高密度住宅中維持自然連結、私密性與社區互動。
+* 如何縮短施工時間並提升建築品質。
+* 如何透過住宅模式支持社會穩定與可負擔居住。
+Concept
+* 以「大型木構聚落」建立生態、溫暖、可負擔的住宅原型。
+* 結合獨棟住宅的私密感與集合住宅的半公共共享性。
+* 透過木構材料創造舒適、友善、社會穩定的生活社區。
+* 將城市生活與周邊自然地景重新連結。
+Strategy
+* 以三棟住宅量體群聚形成 block。
+* 採用預鑄 volumetric CLT 模組作為主要結構與空間單元。
+* 每戶由兩個模組組成：生活／陽台／臥室模組與服務／廚衛／玄關模組。
+* 以走廊、樓梯、中庭與垂直核心組織住宅單元。
+* 將管線整合於走廊牆體，提升維修便利與平面效率。
+* 以半溫暖中庭與寬敞走廊引入光線，形成共享交流空間。
+* 透過分棟、彎折量體與庭院降低大型住宅尺度感。
+* 使用 lease-to-own 財務模式支持社會永續與穩定社區。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* timber apartment block
+* CLT module
+* volumetric module
+* residential unit
+* living room module
+* service module
+* corridor
+* central hallway
+* atrium
+* stair
+* elevator core
+* entrance lobby
+* balcony
+* courtyard
+* shared open space
+* semi-warm space
+* wooden façade
+* concrete base
+* sloped roof
+* window row
+* vertical core volume
+* public stair atrium
+* forest edge
+* pedestrian path
+* green courtyard
+C2｜Semantic Relations 語意關係
+* Corridor → connects → Residential Unit
+Circulation Relation
+* Stair → links → Floor Levels
+Circulation Relation
+* Elevator Core → distributes to → Residential Unit
+Circulation Relation
+* Atrium → connects → Public Stair
+Spatial Relation
+* Entrance Lobby → mediates between → Courtyard
+Spatial Relation
+* Residential Unit → clusters along → Corridor
+Spatial Relation
+* Residential Unit → composed of → CLT Module
+Material Relation
+* Living Room Module → contains → Balcony
+Functional Relation
+* Service Module → contains → Bathroom
+Functional Relation
+* Service Module → contains → Kitchen
+Functional Relation
+* Balcony → extends from → Residential Unit
+Spatial Relation
+* Balcony → opens to → Landscape
+Perceptual Relation
+* Courtyard → buffers → Housing Blocks
+Spatial Relation
+* Shared Open Space → supports → Community Interaction
+Functional Relation
+* Three Buildings → form → Residential Block
+Spatial Relation
+* Wooden Façade → softens → Building Mass
+Perceptual Relation
+* Sloped Roof → reduces → Institutional Scale
+Conceptual Relation
+* Window Row → expresses → Residential Module
+Conceptual Relation
+* Vertical Core Volume → marks → Entrance Node
+Perceptual Relation
+* Corridor Wall → integrates → Building Services
+Functional Relation
+* CLT Module → enables → Prefabrication
+Material Relation
+* Atrium → introduces → Natural Light
+Environmental Relation
+* Forest Edge → frames → Residential Setting
+Perceptual Relation
+* Green Courtyard → links → Nature
+Conceptual Relation
+* Semi-warm Space → mediates → Interior and Exterior
+Environmental Relation
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 居民高度肯定其舒適生活環境與友善社區氛圍。
+   * 共享中庭、走廊與庭院促進鄰里互動與停留。
+   * 木材、自然採光與綠景降低集合住宅的冷漠感。
+   * 分棟量體與庭院配置提升私密性，同時保留半公共交流。
+   * CLT 預鑄模組使每棟現場施工期縮短至約六個月。
+   * 木構模組化系統提升施工品質，並降低天候對施工的影響。
+   * 管線整合於走廊牆體，提升維修效率與平面組織清晰度。
+   * 建築成功成為芬蘭高層木構住宅的示範案例。
+   * 設計結果在環境永續、社會穩定與居住品質之間建立平衡。

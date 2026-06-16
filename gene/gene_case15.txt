@@ -1,0 +1,166 @@
+﻿Case15｜Vertikal Nydalen Precedent DNA
+________________
+
+
+Gene_A｜Conditions 條件
+* 位於挪威 Oslo 的 Nydalen 區，鄰近 Akerselva 河岸。
+* 基地原為停車場，位於工業區轉型中的都市更新地帶。
+* 周邊為商業辦公、高密度住宅與河岸公共空間混合環境。
+* 開發任務包含建立新市民廣場（Town Square）與無車化公共空間。
+* 建築為高層混合使用（Mixed-use）建築。
+* 機能包含餐廳、辦公空間、住宅、自行車停車、儲藏空間及公共露台。
+* 須兼顧都市地標性、公共開放性與環境永續目標。
+* 需要保留城市視線通廊、良好日照與舒適微氣候。
+* 以低碳建築與 Triple-Zero 能源系統作為核心設計前提。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在都市更新區創造兼具公共性與居住性的高層建築。
+* 如何降低建築運轉能耗與碳排放。
+* 如何利用自然通風取代傳統大型機械空調系統。
+* 如何整合住宅、辦公與商業功能而不互相干擾。
+* 如何改善高層建築的採光、景觀與空間品質。
+Concept
+* Triple-Zero Building（三零能源建築）。
+* Naturally Ventilated High-rise（自然通風高層）。
+* Vertical Mixed-use Community（垂直混合社區）。
+* Climate-responsive Architecture（氣候回應建築）。
+* 透過量體切割與氣候系統整合，建立兼具公共性與永續性的都市地標。
+Strategy
+* 將建築分割為高低雙量體。
+* 核心筒集中配置，提高空間效率與垂直運輸效能。
+* 利用傾斜立面產生壓力差，驅動自然通風。
+* 採用地熱井（Geo-wells）、光伏板（PV Panels）與低火用能源系統（Low-exergy System）。
+* 將住宅與辦公主要空間配置於外圍景觀面。
+* 設置辦公—住宅轉換露台作為共享緩衝空間。
+* 透過街角通廊、公共廣場與地面餐飲活化都市生活。
+* 利用大量開窗與裸露混凝土提升熱舒適與採光品質。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* mixed-use tower
+* residential unit
+* apartment
+* office floor
+* restaurant
+* central core
+* elevator core
+* stair core
+* service core
+* lobby
+* entrance hall
+* corridor
+* balcony
+* angled balcony
+* rooftop terrace
+* sky terrace
+* public plaza
+* passageway
+* town square
+* natural ventilation façade
+* angled façade
+* air valve
+* large window
+* corner window
+* exposed concrete slab
+* exposed concrete core
+* timber façade
+* heat-treated pine cladding
+* PV panel
+* geothermal well
+* low-exergy system
+* bicycle storage
+* mixed-use transition floor
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Residential Unit → radiates from → Central Core
+* Office Floor → surrounds → Central Core
+* Balcony → projects from → Façade
+* Rooftop Terrace → crowns → Building Volume
+* Sky Terrace → separates → Office Floor
+* Public Plaza → surrounds → Building Base
+* Passageway → penetrates → Ground Floor
+* Restaurant → occupies → Street Level
+* Apartment → occupies → Upper Levels
+* Office Floor → occupies → Middle Levels
+Circulation Relation
+* Elevator Core → connects → Floor Levels
+* Stair Core → links → Floor Levels
+* Corridor → distributes to → Residential Unit
+* Corridor → distributes to → Office Floor
+* Lobby → transitions to → Central Core
+* Transition Floor → connects → Office Zone
+* Transition Floor → connects → Residential Zone
+Functional Relation
+* Central Core → serves → Mixed-use Program
+* Restaurant → activates → Public Plaza
+* Rooftop Terrace → supports → Community Interaction
+* Balcony → extends → Living Space
+* Service Core → supports → Building Operation
+* Bicycle Storage → supports → Sustainable Mobility
+* Office Floor → shares → Vertical Infrastructure
+* Residential Unit → shares → Vertical Infrastructure
+Perceptual Relation
+* Large Window → frames → Oslo Fjord View
+* Corner Window → captures → City Landscape
+* Angled Façade → creates → Dynamic Expression
+* Timber Façade → conveys → Warmth
+* Angled Balcony → enriches → Façade Depth
+* Rooftop Terrace → overlooks → Urban Context
+* Multifaceted Balcony Underside → reflects → Daylight
+Material Relation
+* Timber Façade → wraps → Building Volume
+* Heat-treated Pine Cladding → forms → Façade Surface
+* Exposed Concrete Core → stores → Thermal Energy
+* Concrete Slab → stabilizes → Indoor Temperature
+* Steel Structure → supports → Floor Deck
+* Oak Flooring → overlays → Concrete Slab
+Environmental Relation
+(描述建築與氣候系統之關係)
+* Angled Façade → generates → Pressure Difference
+* Pressure Difference → drives → Natural Ventilation
+* Air Valve → regulates → Airflow
+* Geothermal Well → supplies → Heating System
+* Geothermal Well → supplies → Cooling System
+* PV Panel → powers → Heat Pump
+* Exposed Concrete → stores → Thermal Mass
+* Natural Ventilation → reduces → Energy Consumption
+* Large Window → introduces → Daylight
+* Triple-Zero System → eliminates → Purchased Energy
+Conceptual Relation
+* Mixed-use Program → creates → Vertical Community
+* Building Split → preserves → Sightline
+* Building Split → improves → Sunlight Access
+* Public Plaza → strengthens → Urban Life
+* Natural Ventilation → replaces → Mechanical Ventilation
+* Triple-Zero Strategy → demonstrates → Climate-conscious Architecture
+* Timber Façade → humanizes → High-rise Scale
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住戶透過陽台、露台與大面開窗頻繁使用戶外景觀空間。
+* 辦公使用者享有自然通風、高樓高與充足自然採光的工作環境。
+* 地面層餐廳、通廊與廣場成為都市停留與社交節點。
+* 屋頂露台與空中平台促進住戶與使用者間的交流活動。
+* 建築內部因減少技術設備而獲得更開放且具彈性的使用模式。
+社會評論／媒體回饋
+* 被視為歐洲自然通風高層建築的重要示範案例。
+* Triple-Zero 能源策略成為低碳都市建築的代表性實踐。
+* 木質立面與混合使用模式受到都市更新領域高度關注。
+* 被認為成功結合永續技術與都市公共生活。
+設計者回顧與空間操作結果
+* 整體碳排放量較參考建築降低超過 50%。
+* 自然通風系統省去大型風管與吊頂空間，提升樓高與空間品質。
+* 傾斜立面成功將建築造型與氣候控制整合為單一系統。
+* 裸露混凝土熱質量有效穩定室內溫度並降低能源需求。
+* 高低雙量體策略改善廣場日照、風環境與都市尺度。
+* 建築成功整合住宅、辦公、商業與公共廣場，形成兼具永續性、適應性與公共性的都市混合使用原型。

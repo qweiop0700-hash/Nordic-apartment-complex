@@ -1,0 +1,141 @@
+﻿Case10｜Mountain Dwellings Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥哥本哈根 Ørestad 新市鎮開發區。
+* 為 VM Houses 第二階段住宅開發案。
+* 基地需同時容納大量停車需求與住宅機能。
+* 都市密度高，但住戶仍期待擁有郊區住宅般的戶外生活品質。
+* 基地周邊以低密度住宅與開闊景觀為主。
+* 項目需求包含 480 個停車位與 80 戶住宅。
+* 必須兼顧日照、景觀、通風與高密度開發效益。
+* 停車設施與住宅機能需整合於同一建築體內。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在高密度都市環境中重現低密度郊區住宅的居住品質。
+* 如何整合大型停車設施與住宅機能而不犧牲居住環境。
+* 如何讓每戶住宅皆擁有私人戶外空間、採光與景觀。
+* 如何避免停車建築成為消極且封閉的都市量體。
+Concept
+* Mountain Housing（山坡住宅）
+* Suburban Living + Urban Density（郊區生活 × 都市密度）
+* Housing on Parking（停車場上的住宅）
+* Artificial Topography（人工地景）
+* Roof Garden Community（屋頂花園聚落）
+Strategy
+* 將停車場作為人工山體基座。
+* 住宅沿斜坡逐層退縮堆疊。
+* 每戶配置大型私人屋頂花園。
+* 停車與住宅垂直整合而非水平分離。
+* 利用階梯式量體確保每戶取得日照與景觀。
+* 將住宅直接連結露台與戶外花園。
+* 透過景觀植栽弱化大型建築量體感。
+* 利用穿孔鋁板塑造具識別性的停車立面。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* mountain dwelling
+* terraced housing
+* roof garden
+* private terrace
+* parking deck
+* parking ramp
+* sloping elevator
+* central courtyard
+* housing band
+* stepped volume
+* landscape roof
+* shared open space
+* elevator core
+* stair core
+* circulation corridor
+* parking base
+* perforated aluminium façade
+* Mount Everest façade graphic
+* glass façade
+* rooftop garden
+* artificial hillside
+* housing cluster
+* residential unit
+* outdoor living space
+* urban density
+* suburban house
+________________
+
+
+C2｜Semantic Relations（語意關係）
+Spatial Relation
+* Housing Unit → connects to → Private Terrace
+* Private Terrace → extends → Living Space
+* Roof Garden → belongs to → Apartment Unit
+* Housing Band → sits on → Parking Deck
+* Stepped Volume → creates → Terrace System
+* Central Open Space → surrounded by → Housing Structure
+Circulation Relation
+* Elevator Core → connects → Housing Floors
+* Parking Ramp → links → Parking Levels
+* Sloping Elevator → serves → Parking Structure
+* Corridor → distributes → Housing Units
+* Stair Core → connects → Residential Floors
+Functional Relation
+* Parking Deck → supports → Housing Volume
+* Roof Garden → supports → Outdoor Living
+* Terrace → provides → Private Recreation
+* Parking Structure → accommodates → Vehicle Storage
+* Housing Unit → accesses → Garden Space
+Perceptual Relation
+* Stepped Form → resembles → Mountain Landscape
+* Roof Gardens → create → Suburban Atmosphere
+* Terraces → enhance → Visual Openness
+* Green Roofs → soften → Building Scale
+* Open Views → improve → Residential Quality
+Material Relation
+* Perforated Aluminium → wraps → Parking Façade
+* Glass Façade → separates → Interior and Garden
+* Concrete Structure → forms → Artificial Mountain
+* Vegetation → covers → Roof Terraces
+Conceptual Relation
+* Parking + Housing → forms → Symbiotic Relationship
+* Artificial Topography → reinterprets → Housing Block
+* Urban Density → combines with → Suburban Lifestyle
+* Roof Garden → becomes → Private Backyard
+* Mountain Form → maximizes → Sunlight and Views
+Environmental Relation
+* Stepped Housing → maximizes → Solar Access
+* Roof Gardens → improve → Microclimate
+* Open Terraces → enhance → Natural Ventilation
+* Large Openings → increase → Daylight Penetration
+* Vegetation → contributes to → Seasonal Change
+Urban Context Relation
+* Mountain Dwellings → responds to → Dense Urban Development
+* Parking Base → addresses → Car-Oriented Requirements
+* Terraced Housing → references → Hillside Settlements
+* Mixed Density Living → bridges → City and Suburb
+* Housing Volume → overlooks → Surrounding Landscape
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 每戶皆擁有如獨棟住宅般的私人花園與露台體驗。
+* 居民能直接從住宅接觸戶外空間，提高戶外活動頻率。
+* 停車與住宅整合使日常交通更便利。
+* 屋頂花園成為住戶的重要生活延伸空間。
+* 大尺度景觀視野提升居住滿意度。
+社會評論／媒體回饋
+* 被視為 BIG 最具代表性的住宅作品之一。
+* 成功實踐「郊區住宅品質＋都市住宅密度」概念。
+* 被廣泛引用為停車與住宅整合設計的經典案例。
+* 被評價為將基礎設施轉化為居住景觀的創新住宅原型。
+* 成為 Ørestad 地區的重要建築地標。
+設計者自身回顧與空間操作結果
+* 停車場不再是附屬設施，而成為住宅地景基礎。
+* 階梯式量體成功解決高密度住宅的日照與景觀問題。
+* 每戶皆獲得私人花園，重新定義集合住宅戶外生活品質。
+* 人工山體概念成功融合停車、住宅與景觀三種系統。
+* 建築實現「Suburban Living with Urban Density」的核心理念。
+* 穿孔鋁板立面與 Everest 圖像強化建築辨識度與地標性。
+* 屋頂花園系統建立季節變化與自然參與的居住體驗。

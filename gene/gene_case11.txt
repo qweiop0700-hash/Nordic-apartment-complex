@@ -1,0 +1,139 @@
+﻿Case11｜Kvillestaden Housing Precedent DNA
+Gene_A｜Conditions 條件
+* 位於瑞典 Gothenburg（哥德堡）Kvillestaden 地區。
+* 基地原為舊郵局用地，處於船塢工業區轉型中的都市更新區域。
+* 周邊環境由舊住宅與新開發住宅混合構成。
+* 鄰近哥德堡典型住宅類型 Landshövdingehus（磚造基座＋木構上層住宅）。
+* 基地位於封閉街廓（closed block）系統之中。
+* 需回應都市街道界面與內部居住環境的雙重需求。
+* 設計目標包含提高住宅密度、改善採光條件及強化社區互動。
+* 強調共享戶外空間與多樣住宅單元類型。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何於都市更新區中建立兼具密度與社區感的住宅模式。
+* 如何回應傳統街廓尺度與地方住宅類型特色。
+* 如何在高密度住宅中創造具有品質的共享戶外空間。
+* 如何提升居民交流並降低集合住宅的疏離感。
+Concept
+* Courtyard Community（中庭社群）
+* Urban Oasis（都市綠洲）
+* Shared Outdoor Living（共享戶外生活）
+* Reinterpretation of Landshövdingehus（傳統住宅類型再詮釋）
+* Double Outdoor Room（雙重戶外空間）
+Strategy
+* 採用圍合式街廓配置形成內向型中庭。
+* 建築量體分段處理以降低街廓尺度感。
+* 利用共享入口陽台形成半公共社交空間。
+* 每戶同時擁有街道側陽台與中庭側入口陽台。
+* 中庭配置大量木質平台與共享休憩空間。
+* 利用熱處理松木包覆中庭界面，創造溫暖氛圍。
+* 透過多樣住宅單元類型滿足不同居住需求。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary（空間語彙）
+* courtyard
+* apartment unit
+* entrance balcony
+* private balcony
+* roof terrace
+* elevator core
+* stair core
+* circulation gallery
+* communal terrace
+* outdoor room
+* central courtyard
+* wooden deck
+* heat-treated pine façade
+* corrugated zinc façade
+* brick base
+* landscape courtyard
+* shared seating
+* pedestrian access
+* underground parking
+* residential block
+* L-shaped volume
+* courtyard platform
+* rooftop terrace
+* green courtyard
+* communal outdoor space
+________________
+
+
+C2｜Semantic Relations（語意關係）
+Spatial Relation
+* Apartment Unit → surrounds → Courtyard
+* Entrance Balcony → faces → Courtyard
+* Private Balcony → faces → Street
+* Shared Terrace → overlooks → Courtyard
+* Residential Block → encloses → Central Courtyard
+* Roof Terrace → extends → Apartment Unit
+* Wooden Deck → occupies → Courtyard Platform
+Circulation Relation
+* Stair Core → connects → Residential Floors
+* Elevator Core → serves → Apartment Units
+* Circulation Gallery → links → Residential Entrances
+* Courtyard Path → connects → Shared Spaces
+* Underground Parking → links to → Vertical Core
+Functional Relation
+* Courtyard → supports → Community Interaction
+* Entrance Balcony → functions as → Outdoor Room
+* Shared Terrace → accommodates → Social Activity
+* Roof Terrace → provides → Private Outdoor Space
+* Courtyard Seating → encourages → Informal Gathering
+* Residential Unit → accesses → Dual Outdoor Spaces
+Perceptual Relation
+* Courtyard → creates → Protected Environment
+* Wooden Façade → generates → Warm Atmosphere
+* Shared Balcony → enhances → Social Visibility
+* Green Courtyard → softens → Building Density
+* Outdoor Room → extends → Living Experience
+Material Relation
+* Heat-treated Pine → clads → Courtyard Façade
+* Corrugated Zinc → covers → Upper Façade
+* Brick Base → references → Traditional Typology
+* Wooden Deck → integrates → Landscape Space
+Conceptual Relation
+* Courtyard Housing → promotes → Community Living
+* Shared Outdoor Space → strengthens → Social Cohesion
+* Divided Building Segments → reduce → Urban Scale
+* Dual Balcony System → increases → Residential Quality
+* Urban Oasis → contrasts with → Street Environment
+* Traditional Housing Typology → informs → Contemporary Form
+Environmental Relation
+* Courtyard → improves → Daylight Access
+* Dual-Sided Outdoor Spaces → enhance → Natural Ventilation
+* Roof Terrace → expands → Outdoor Living
+* Green Courtyard → supports → Microclimate Comfort
+Urban Context Relation
+* Residential Block → responds to → Closed Block Typology
+* Brick Base → references → Landshövdingehus Heritage
+* Segmented Façade → reflects → Historic Plot Division
+* Courtyard Housing → mediates → City and Community
+* Urban Oasis → separates → Residential Life from Street Noise
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 中庭成為居民日常交流與停留的核心場域。
+* 入口陽台被廣泛使用為半戶外生活空間。
+* 居民於共享露台、庭院與步道形成高頻率互動。
+* 雙陽台系統增加住宅活動範圍與生活彈性。
+* 中庭綠地提高戶外停留與兒童活動機會。
+社會評論／媒體回饋
+* 被視為都市更新住宅與社區生活結合的優秀案例。
+* 成功延續哥德堡傳統街廓與住宅尺度。
+* 木質中庭空間被認為有效提升住宅環境品質。
+* 被評價為兼顧高密度與人性尺度的集合住宅模式。
+設計者自身回顧與空間操作結果
+* 圍合式中庭成功建立強烈的社區核心。
+* 「入口陽台＋街道陽台」策略有效擴大住宅生活範圍。
+* 木質材料強化共享空間的溫暖與親和力。
+* 分段量體降低大型街廓的視覺壓迫感。
+* 都市街道與安靜中庭形成鮮明對比，成功創造 Urban Oasis（都市綠洲）概念。
+* 傳統 Landshövdingehus 語彙透過當代建築形式獲得新的詮釋與延續。

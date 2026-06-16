@@ -1,0 +1,115 @@
+﻿Case07｜Kaktus Towers Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Copenhagen，鄰近 Dybbølsbro Station。
+* 基地周邊包含交通設施、橋體、水岸、商辦與新興都市開發區。
+* 建築由兩棟高層住宅塔組成。
+* 機能以小型住宅單元為主，約 500 戶。
+* 每戶多為 1–2 房，並配置私人陽台。
+* 周邊鄰近高架公共綠廊、Bicycle Snake 自行車橋與水岸都市空間。
+* 建築需回應高密度小宅、單身居住、外籍住戶與都市孤獨問題。
+* 基地環境具高度交通性、流動性與城市地標需求。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在小坪數住宅中提升居住彈性與生活品質。
+* 如何使高密度單身住宅避免孤立感。
+* 如何在交通節點旁塑造具辨識度的城市地標。
+* 如何讓高層住宅在重複堆疊中仍具動態與雕塑性。
+Concept
+* Cactus Tower：仙人掌塔。
+* Twisting Façade：扭轉立面。
+* Private Life + Community：私人生活與共享社群並置。
+* Compact Living：小宅彈性居住。
+* Spiky Urban Landmark：具尖刺感的都市地標。
+Strategy
+* 以中央核心組織垂直交通與住宅單元。
+* 每層立面微幅旋轉，形成動態扭轉塔身。
+* 以近 500 個尖角陽台環繞塔樓。
+* 每戶配置私人陽台，增加戶外延伸空間。
+* 小宅內置多功能家具，提高空間使用彈性。
+* 配置共享健身房、廚房、洗衣房與戶外烤肉區。
+* 透過地面廣場、平台與戶外公共空間連接兩塔。
+* 以強烈金屬立面與幾何陽台塑造高辨識度形象。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* twin tower
+* central core
+* elevator core
+* stair core
+* residential unit
+* compact apartment
+* multifunctional furniture
+* pointed balcony
+* twisting façade
+* jagged façade
+* metal façade
+* glass window
+* circular core
+* public plaza
+* outdoor barbecue area
+* shared kitchen
+* gym
+* laundry room
+* communal facility
+* ground-floor lobby
+* elevated park
+* pedestrian path
+* urban platform
+* waterfront view
+* city skyline view
+* façade fold
+* balcony ring
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Residential Unit → surrounds → Central Core
+* Pointed Balcony → wraps → Tower Exterior
+* Balcony Ring → encircles → Residential Floors
+* Public Plaza → connects → Twin Towers
+* Circular Core → anchors → Tower Volume
+* Ground-floor Lobby → occupies → Tower Base
+* Communal Facility → clusters around → Shared Core
+Circulation Relation
+* Elevator Core → connects → Floor Levels
+* Stair Core → links → Floor Levels
+* Central Core → distributes to → Residential Unit
+* Pedestrian Path → connects → Public Plaza
+* Urban Platform → links → Elevated Park
+Functional Relation
+* Multifunctional Furniture → supports → Compact Apartment
+* Shared Kitchen → supports → Community Interaction
+* Gym → supports → Shared Living
+* Laundry Room → supports → Daily Life
+* Outdoor Barbecue Area → encourages → Resident Gathering
+* Balcony → extends → Residential Unit
+Perceptual Relation
+* Twisting Façade → creates → Sculptural Expression
+* Pointed Balcony → evokes → Cactus Image
+* Metal Façade → reflects → Sunset Light
+* Jagged Façade → produces → Dynamic Shadow
+* Waterfront View → expands → Interior Perception
+* Glass Window → frames → City Skyline
+Material Relation
+* Metal Panel → clads → Tower Envelope
+* Glass Window → opens → Residential Unit
+* Balcony Structure → attaches to → Façade
+* Integrated Furniture → fits into → Sloped Wall
+Environmental Relation
+* Balcony → provides → Outdoor Air
+* Glass Window → introduces → Daylight
+* Façade Fold → creates → Shading Effect
+* Elevated Park → adds → Urban Green Buffer
+* Outdoor Space → improves → Residential Well-being
+Conceptual Relation
+* Cactus Image → informs → Balcony Geometry
+* Compact Living → requires → Multifunctional Furniture
+* Shared Facilities → counteract → Urban Loneliness
+* Twisting Tower → marks → Transit District
+* Private Balcony → balances → Shared Community
+Gene_D｜Outcomes & Reflection 結果與回饋
+* 住戶透過私人陽台獲得小宅之外的戶外延伸空間。
+* 多功能家具回應斜牆與小坪數限制，提升使用彈性。
+* 共享廚房、健身房、洗衣房與烤肉區促進居民互動。
+* 兩塔與地面公共空間形成交通節點旁的社區聚集場域。
+* 扭轉立面與尖角陽台形成強烈城市地標形象。
+* 建築完成後外觀評價兩極，引發「美或醜」的公共討論。
+* 租金與施工品質亦成為社會討論焦點。
+* 設計結果成功建立高辨識度住宅原型，但也凸顯強形式建築在公共接受度上的爭議。

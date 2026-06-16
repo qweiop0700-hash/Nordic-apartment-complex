@@ -1,0 +1,152 @@
+﻿Case08｜AARhus Precedent DNA
+Gene_A｜Conditions 條件
+* 位於丹麥 Aarhus Ø 新開發區 Ø4 人工島端點。
+* 基地介於海灣、港口、城市與自然之間。
+* 具雙重景觀條件：面向 Aarhus Bay 與港灣都市景觀。
+* 建築機能為集合住宅，並結合商業、社區共享與濱水休閒機能。
+* 周邊為港灣、碼頭、濱海步道與新興住宅開發區。
+* 設計需回應高密度住宅、景觀視野、戶外生活與社區共享需求。
+* 停車空間被整合於建築中央基座內，以釋放地面公共活動空間。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在港灣第一排基地中最大化景觀、採光與戶外空間。
+* 如何將中庭住宅、排屋與高塔等都市類型整合為單一建築。
+* 如何在高密度集合住宅中建立社區感與共享生活。
+* 如何使建築同時回應城市街道、海灣自然與港口活動。
+Concept
+* Hybrid Urban Typology：混合都市住宅類型。
+* Courtyard + Townhouse + Tower：中庭、排屋與塔樓融合。
+* Stepped Roofscape：階梯式屋頂地景。
+* Green Heart：中庭綠色核心。
+* Waterfront Living：濱水居住生活。
+Strategy
+* 以環狀量體圍塑中央共享中庭。
+* 將建築四角設定為不同高度，形成階梯式屋頂景觀。
+* 以連續外部陽台包覆建築外圈。
+* 在中庭側配置較小陽台，確保每戶具戶外空間。
+* 中央庭院設置共享菜園、果樹與社區聚餐空間。
+* 地面層配置商業、濱海休閒與共享社區機能。
+* 東北側設置面水 canal houses，連接散步與游泳活動。
+* 西南角共享空間以大露台連接城市街道，活化立面。
+* 停車空間隱藏於中央基座內。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* courtyard block
+* townhouse
+* tower feature
+* stepped roofscape
+* residential unit
+* continuous balcony
+* private terrace
+* internal balcony
+* central courtyard
+* shared garden
+* vegetable garden
+* fruit tree garden
+* community dinner space
+* ground-floor commercial space
+* maritime leisure unit
+* canal house
+* swimming access
+* shared community space
+* large front terrace
+* parking plinth
+* elevator core
+* stair core
+* inner corridor
+* landscape path
+* waterfront promenade
+* harbour edge
+* bay view
+* glass façade
+* green courtyard
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Residential Unit → surrounds → Central Courtyard
+* Central Courtyard → occupies → Building Center
+* Continuous Balcony → wraps → Building Exterior
+* Internal Balcony → faces → Central Courtyard
+* Private Terrace → extends from → Residential Unit
+* Stepped Roofscape → creates → Multi-level Terraces
+* Parking Plinth → occupies → Building Base
+* Canal House → faces → Waterfront
+* Shared Community Space → occupies → Southwest Corner
+Circulation Relation
+* Inner Corridor → connects → Residential Unit
+* Stair Core → links → Floor Levels
+* Elevator Core → distributes to → Residential Unit
+* Landscape Path → connects → Courtyard
+* Waterfront Promenade → links → Harbour Edge
+* Large Front Terrace → connects → Urban Space
+Functional Relation
+* Central Courtyard → supports → Community Gathering
+* Shared Garden → supports → Vegetable Growing
+* Fruit Tree Garden → supports → Shared Harvest
+* Community Dinner Space → hosts → Outdoor Banquet
+* Ground-floor Commercial Space → activates → Street Level
+* Maritime Leisure Unit → supports → Coastal Recreation
+* Canal House → enables → Swimming Access
+* Parking Plinth → conceals → Parking Area
+Perceptual Relation
+* Bay View → enhances → Residential Quality
+* Glass Façade → blurs → Interior-Exterior Boundary
+* Continuous Balcony → expands → Outdoor Experience
+* Stepped Roofscape → frames → Sea Horizon
+* Central Courtyard → creates → Protected Green Core
+* Waterfront Edge → strengthens → Place Identity
+Material Relation
+* Glass Façade → opens → Residential Volume
+* Concrete Plinth → supports → Stepped Massing
+* Glass Railing → lightens → Balcony Edge
+* Landscape Planting → softens → Hardscape
+Environmental Relation
+* Stepped Massing → improves → Daylight Access
+* Central Courtyard → improves → Microclimate
+* Green Courtyard → supports → Urban Biodiversity
+* Continuous Balcony → provides → Shading Buffer
+* Waterfront Location → enhances → Natural Ventilation
+* Roof Terrace → increases → Outdoor Living Area
+Conceptual Relation
+* Courtyard Typology → merges with → Tower Typology
+* Townhouse Typology → integrates into → Housing Block
+* Stepped Roofscape → transforms → Urban Block
+* Green Heart → strengthens → Community Identity
+* Waterfront Living → connects → City and Nature
+* Hybrid Typology → redefines → Dense Housing
+Urban Context Relation
+* AARhus → mediates → Bay and Harbour
+* Ground-floor Program → supports → Urban Redevelopment
+* Shared Community Space → activates → Street Façade
+* Canal Houses → extend → Waterfront Lifestyle
+* Courtyard Block → adapts to → Aarhus Urban Fabric
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 居民可透過連續陽台、私人露台與中庭陽台進行多層次戶外活動。
+* 中央庭院成為種植、聚餐、休憩與鄰里交流核心。
+* 東北側 canal houses 讓住戶直接連結散步、游泳與水岸活動。
+* 西南角共享空間與前方大露台引導居民與城市公共生活互動。
+* 大面玻璃與海景視野提升室內停留品質與居住舒適度。
+社會評論／媒體回饋
+* 被視為 Aarhus Ø 新區中結合城市、港灣與自然景觀的代表住宅案例。
+* 混合類型策略使建築兼具中庭社區、排屋生活與塔樓景觀優勢。
+* 階梯式退縮與連續陽台被認為有效提升高密度住宅的戶外生活品質。
+* 中庭共享花園強化社區互動與永續生活形象。
+設計者自身回顧與空間操作結果
+* 建築成功將 courtyard、townhouse、tower 三種都市住宅類型整合。
+* 階梯式屋頂地景讓不同樓層皆能取得露台與景觀資源。
+* 連續陽台系統擴張每戶的戶外生活邊界。
+* 中庭從單純採光空隙轉化為 Green Heart 與社區生活核心。
+* 地面層公共與商業機能強化城市介面。
+* 停車基座被隱藏於量體內部，使公共空間與濱水生活更完整。

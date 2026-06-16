@@ -1,0 +1,124 @@
+﻿Case17｜Moholt 50|50 Precedent DNA
+Gene_A｜Conditions 條件
+* 位於挪威 Trondheim 的 Moholt student village。
+* 基地原為 1960 年代學生村，面臨更新與再活化需求。
+* 建築機能為學生住宅，包含五棟 9 層高塔。
+* 每層為一個學生 collective，由 15 間含獨立衛浴的房間組成。
+* 共享空間包含廚房、餐廳、客廳、入口廳與客用廁所。
+* 地面層配置學生服務、商業空間與公共機能。
+* 整體規劃另包含幼兒園、圖書館與學生活動空間。
+* 採用 CLT 木構系統，地下一層與地面層為鋼筋混凝土。
+* 設計需回應寒冷氣候、學生社交需求、社區邊界與公共空間活化。
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 傳統學生宿舍過於平庸，只提供最低成本的堆疊單元。
+* 既有學生村與周邊城市之間存在心理邊界。
+* 學生需要兼具個人隱私與集體生活的居住模式。
+* 大尺度學生住宅需避免孤立、單調與缺乏公共支持機能。
+Concept
+* 以「50 年後的學生村願景」重新定義校園住宅。
+* 建立結合 private space 與 collective space 的學生共居模型。
+* 以木構高塔與公共街道形成開放、共享、社會互動的學生社區。
+* 將學生村由封閉宿舍轉化為城市中的 active central area。
+Strategy
+* 建置五棟 9 層 CLT 學生住宅塔。
+* 每層設計為 15 人共享 collective。
+* 將個人房間配置於外周，中央設共享客廳、餐廚與入口空間。
+* 地面層植入學生服務、商業與公共活動機能。
+* 以 Moholt Commons 串聯既有道路、小徑與新建築。
+* 透過景觀步道、中央開放空間與節點廣場強化社區活動。
+* 車行與人行分流，提升戶外活動安全性。
+* 室內大量暴露 CLT 木材，形成誠實、溫暖且耐用的空間表情。
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* student housing tower
+* CLT structure
+* collective floor
+* residential unit
+* individual bathroom
+* shared kitchen
+* dining room
+* shared living room
+* entrance hall
+* guest toilet
+* central shared space
+* stair core
+* elevator core
+* spiral stair
+* corridor
+* ground-floor public program
+* commercial space
+* student service space
+* kindergarten
+* library
+* Moholt Commons
+* pedestrian path
+* landscape path
+* central plaza
+* green buffer
+* timber façade
+* Kebony pine cladding
+* reinforced concrete base
+* outdoor activity node
+C2｜Semantic Relations 語意關係
+* Residential Unit → surrounds → Central Shared Space
+Spatial Relation
+* Central Shared Space → gathers → Collective Floor
+Functional Relation
+* Shared Kitchen → activates → Social Interaction
+Functional Relation
+* Dining Room → connects to → Shared Living Room
+Spatial Relation
+* Shared Living Room → supports → Collective Life
+Functional Relation
+* Entrance Hall → mediates between → Core
+Spatial Relation
+* Stair Core → links → Floor Levels
+Circulation Relation
+* Elevator Core → distributes to → Collective Floor
+Circulation Relation
+* Corridor → connects → Residential Unit
+Circulation Relation
+* Spiral Stair → marks → Secondary Node
+Perceptual Relation
+* Residential Unit → opens to → Exterior View
+Perceptual Relation
+* Ground-floor Public Program → activates → Street
+Functional Relation
+* Commercial Space → engages → Public Realm
+Functional Relation
+* Moholt Commons → connects → Housing Towers
+Circulation Relation
+* Pedestrian Path → links → Central Plaza
+Circulation Relation
+* Central Plaza → supports → Community Gathering
+Functional Relation
+* Green Buffer → separates → Street
+Spatial Relation
+* Timber Façade → softens → Tower Mass
+Perceptual Relation
+* CLT Structure → constructs → Housing Tower
+Material Relation
+* Reinforced Concrete Base → supports → CLT Tower
+Material Relation
+* Kebony Pine Cladding → wraps → Façade
+Material Relation
+* Shared Street → dissolves → Psychological Boundary
+Conceptual Relation
+* Collective Floor → balances → Privacy and Community
+Conceptual Relation
+* Public Program → integrates → Student Village
+Conceptual Relation
+* Landscape Path → encourages → Walking Activity
+Behavioral Relation
+說明：描述空間如何引導或促發使用者行為。
+Gene_D｜Outcomes & Reflection 結果與回饋
+   * 每層 15 人 collective 促進學生共餐、交流、停留與日常互助。
+   * 個人房間與共享核心形成清楚的私密／集體生活平衡。
+   * 地面層公共服務與商業空間增加街道活動與社區開放性。
+   * Moholt Commons 串聯新舊路徑，削弱學生村與周邊城市的心理邊界。
+   * 木質室內表面提升溫暖感、歸屬感與居住舒適度。
+   * 中央共享客廳與餐廚成為學生社交的主要觸發點。
+   * CLT 系統實現大型木構住宅，並展現材料的結構與美學潛力。
+   * 外牆 telescopic cladding 回應木構收縮，提升技術可靠性。
+   * 建築成功將學生住宅從單純住宿單元轉化為具公共性、社交性與城市連結的生活社區。

@@ -1,0 +1,144 @@
+﻿Case03｜The Wave Precedent DNA
+Gene_A｜Conditions 條件
+* 位於 Vejle 港灣水岸第一排基地。
+* 面向峽灣（Vejle Fjord），擁有遼闊海景與水岸景觀。
+* 鄰近城市中心、橋樑、港區與丘陵地景。
+* 為住宅區再開發計畫的重要地標建築。
+* 需回應海岸天際線與自然地景特徵。
+* 基地具有高度景觀價值與城市曝光度。
+* 建築需兼具高密度住宅與優質景觀條件。
+* 期望建立城市新識別與水岸入口意象。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何讓高密度住宅與自然地景共存。
+* 如何避免大型住宅量體造成水岸景觀阻隔。
+* 如何建立具有辨識度的城市地標。
+* 如何強化住宅與海景之間的關係。
+* 如何回應丹麥水岸城市的地方特色。
+Concept
+* Wave（波浪）
+* Landscape Architecture（地景建築）
+* Sculptural Housing（雕塑住宅）
+* Fjord Identity（峽灣意象）
+* Living by the Water（水岸居住）
+Strategy
+* 以連續波浪量體塑造建築輪廓。
+* 將住宅單元堆疊於波峰與波谷結構中。
+* 利用量體高低起伏引入採光與景觀。
+* 讓建築形體回應周圍丘陵與海灣地貌。
+* 強化住宅與港灣景觀的視覺連結。
+* 建立可從城市與海面辨識的地標意象。
+* 透過大型玻璃開口最大化景觀價值。
+* 將建築視為地景的一部分而非獨立物件。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* wave form
+* sculptural housing
+* waterfront housing
+* stepped section
+* residential unit
+* duplex apartment
+* harbour frontage
+* panoramic glazing
+* curved roofline
+* landmark building
+* vertical core
+* circulation spine
+* terrace housing
+* public platform
+* fjord view
+* skyline element
+* cascading volume
+* reflective façade
+* residential cluster
+* harbour promenade
+* elevated terrace
+* parking podium
+* landscape connection
+* iconic silhouette
+* coastal architecture
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Residential Units → stack within → Wave Volumes
+* Vertical Core → serves → Housing Clusters
+* Public Platform → connects → Residential Access
+* Terrace Spaces → extend → Living Areas
+* Parking Base → supports → Housing Structure
+Circulation Relation
+* Elevator Core → links → Residential Floors
+* Stair Core → supports → Vertical Movement
+* Horizontal Corridor → distributes → Housing Units
+* Entrance Space → connects → Public Waterfront
+* Circulation Spine → organizes → Building Access
+Functional Relation
+* Ground Floor → accommodates → Parking and Services
+* Upper Floors → accommodate → Residential Functions
+* Terraces → support → Outdoor Living
+* Public Areas → support → Community Interaction
+* Core Zone → accommodates → Building Services
+Environmental Relation
+* Wave Geometry → improves → Daylight Access
+* Stepped Form → increases → View Opportunities
+* Waterfront Location → provides → Landscape Exposure
+* Large Openings → maximize → Natural Light
+* Terraces → enhance → Outdoor Environmental Quality
+Perceptual Relation
+* Wave Form → evokes → Ocean Movement
+* White Façade → reflects → Sea and Sky
+* Curved Skyline → creates → Visual Identity
+* Sculptural Volume → establishes → Landmark Presence
+* Stepped Silhouette → strengthens → Dynamic Appearance
+Material Relation
+* White Metal Cladding → forms → Exterior Envelope
+* Glass Façade → provides → Transparency
+* Balcony Glazing → enhances → Visual Continuity
+* Interior Timber → introduces → Warmth
+* Reflective Surfaces → interact with → Changing Weather
+Conceptual Relation
+* Wave → references → Fjord Landscape
+* Building Form → mirrors → Hills and Water
+* Housing → integrates with → Natural Environment
+* Landmark → represents → City Identity
+* Architecture → becomes → Landscape Element
+* Waterfront Living → shapes → Residential Experience
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住戶享有大尺度港灣與峽灣景觀。
+* 露台與大型開窗成為日常生活的重要延伸空間。
+* 波浪形量體提供不同方向與高度的視野體驗。
+* 水岸步道與住宅形成緊密互動。
+* 建築成為居民與遊客共同辨識的城市象徵。
+________________
+
+
+社會評論／媒體回饋
+* 被視為丹麥當代住宅建築代表案例之一。
+* 成功塑造 Vejle 新城市天際線。
+* 榮獲多項國際建築獎項，包括 Civic Trust Award。
+* 被評論為兼具雕塑性與居住功能的成功作品。
+* 成為水岸住宅設計的重要參考案例。
+* 被認為展現北歐建築對地景與環境的敏感回應。
+________________
+
+
+設計者自身回顧與空間操作結果
+* 成功將峽灣、橋樑、丘陵與海洋意象轉譯為建築形式。
+* 波浪量體有效降低大型住宅的尺度壓迫感。
+* 階梯式剖面提升住宅採光、通風與景觀品質。
+* 建築在白天與夜晚呈現不同視覺形象，強化地標性。
+* 證明高密度住宅亦可具備強烈雕塑性與地方特色。
+* 建立建築、地景與城市三者整合的新型態住宅模式。
+* 成為 Henning Larsen 最具代表性的住宅作品之一，並成為丹麥水岸建築的重要典範。
+*

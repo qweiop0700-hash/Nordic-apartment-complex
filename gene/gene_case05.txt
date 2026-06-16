@@ -1,0 +1,149 @@
+﻿Case05｜Kubuswoningen Precedent DNA
+Gene_A｜Conditions 條件
+* 位於荷蘭 Rotterdam Oude Haven（舊港區）歷史水岸地帶。
+* 基地曾於二戰期間遭受嚴重破壞，屬都市更新重點區域。
+* 鄰近 Blaak 交通幹道、地下地鐵系統與港灣空間。
+* 需滿足高密度住宅開發需求（205 dwellings/hectare）。
+* 基地橫跨主要交通動脈 Blaak，需兼顧都市連結與住宅品質。
+* 計畫包含住宅、商業、餐飲、停車與公共空間。
+* 整體開發由三部分組成：
+   * Kubuswoningen（方塊屋）
+   * Blaaktoren（鉛筆塔）
+   * Spaanse Kade（街廓住宅）
+* 總計約270戶住宅、1000㎡商業空間與300個停車位。
+________________
+
+
+Gene_B｜Design Intentions 設計意圖
+Issue
+* 如何在高密度都市環境中創造具有社區感的居住模式。
+* 如何避免大型住宅開發成為單調且制式化的集合住宅。
+* 如何在複雜交通基礎設施上方建立宜居住宅。
+* 如何重建戰後港區並塑造具有特色的城市地標。
+* 如何兼顧公共空間與住宅密度需求。
+Concept
+* Living as a Village（村落式居住）
+* Forest of Houses（樹屋森林）
+* Elevated Urban Landscape（抬升式城市地景）
+* Structuralist Housing（結構主義住宅）
+* Architecture with Character（具有生命力的建築）
+Strategy
+* 將住宅抬升於細柱之上，釋放地面公共空間。
+* 以傾斜45度的立方體作為基本住宅單元。
+* 每戶住宅如同一棵樹，群聚形成森林。
+* 利用步道系統串聯所有住宅單元。
+* 建立公共步行平台跨越 Blaak 道路。
+* 混合住宅、商業與公共活動空間。
+* 透過特殊幾何創造非典型住宅體驗。
+* 保持聚落尺度而非單一大型量體。
+________________
+
+
+Gene_C｜Form Composition 空間構成
+C1｜Vocabulary 空間語彙
+* cube house
+* tilted cube
+* hexagonal pylon
+* pedestrian promenade
+* elevated housing
+* village cluster
+* public plaza
+* pedestrian bridge
+* retail promenade
+* supercube
+* architecture school
+* hostel
+* live-work unit
+* rooftop pyramid
+* triangular attic
+* harbour frontage
+* courtyard housing
+* apartment tower
+* storage core
+* vertical circulation
+* urban village
+* timber frame
+* zinc roof
+* waterfront housing
+* communal pathway
+________________
+
+
+C2｜Semantic Relations 語意關係
+Spatial Relation
+* Cube House → rests on → Hexagonal Pylon
+* Cluster Housing → surrounds → Public Space
+* Pedestrian Promenade → connects → Housing Units
+* Supercube → anchors → Development Edge
+* Retail Space → occupies → Promenade Level
+* Housing Cluster → faces → Harbour
+* Public Plaza → integrates → Community Activities
+Circulation Relation
+* Pedestrian Bridge → spans → Blaak Road
+* Promenade → links → Harbour and Market
+* Walkway → connects → Housing Clusters
+* Vertical Stair → connects → Three Housing Levels
+* Pylon Core → contains → Storage and Access
+Functional Relation
+* Ground Level → accommodates → Retail Functions
+* Cube House → accommodates → Residential Life
+* Supercube → accommodates → Public Program
+* Promenade → supports → Commercial Activity
+* Public Space → supports → Social Interaction
+* Housing Cluster → supports → Urban Community
+Perceptual Relation
+* Tilted Cube → creates → Unconventional Living Experience
+* Elevated Housing → overlooks → Harbour Landscape
+* Cluster Composition → evokes → Village Identity
+* Triangular Roof Space → creates → Spatial Exploration
+* Cube Geometry → challenges → Conventional Housing Image
+Material Relation
+* Timber Frame → forms → Structural Skeleton
+* Cement Board → encloses → Cube Envelope
+* Wood Fiber Board → insulates → Housing Unit
+* Zinc Roof → protects → Cube Roof
+* Brick Pylon → supports → Elevated Cube
+Environmental Relation
+* Elevated Mass → maximizes → Public Ground Space
+* Multiple Windows → improve → Natural Ventilation
+* Harbour Location → provides → Water Views
+* Open Public Space → enhances → Urban Accessibility
+* Raised Housing → reduces → Ground Occupation
+Conceptual Relation
+* Cube House → represents → Tree
+* Housing Cluster → represents → Forest
+* Urban Village → opposes → Anonymous High-density Housing
+* Structuralist Design → emphasizes → Human Association
+* Elevated Community → creates → Shared Public Realm
+* Experimental Geometry → generates → New Housing Typology
+________________
+
+
+Gene_D｜Outcomes & Reflection 結果與回饋
+使用者行為反應
+* 住戶透過步道、平台與公共空間形成日常交流。
+* 傾斜空間帶來與一般住宅完全不同的生活體驗。
+* 水岸景觀與高架視野成為居住特色。
+* 商業與住宅混合促進全天候活動。
+* 公共平台成為居民與遊客共同使用的城市空間。
+________________
+
+
+社會評論／媒體回饋
+* 成為 Rotterdam 最具代表性的建築地標之一。
+* 被視為荷蘭結構主義（Structuralism）代表作品。
+* 成為熱門觀光景點與城市意象。
+* 被認為是實驗性住宅設計的重要案例。
+* 對於居住機能評價兩極，但空間創新廣受討論。
+* 成功塑造 Oude Haven 夜生活與文化活動核心。
+________________
+
+
+設計者自身回顧與空間操作結果
+* Piet Blom 認為住宅應像村落而非堆疊盒子。
+* 「樹與森林」概念成功轉化為可建造的都市住宅系統。
+* 抬升住宅量體有效保留大量公共空間。
+* 幾何形式雖降低部分使用效率，但大幅提升空間識別性。
+* 證明住宅可以超越功能主義框架，成為城市文化載體。
+* 成為後續荷蘭實驗住宅與都市設計的重要參考案例。
+* 成功將港區再生、公共空間、住宅與商業活動整合為完整都市聚落。
