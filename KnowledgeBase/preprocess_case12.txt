@@ -1,0 +1,105 @@
+﻿P1:case12(圖面)
+Step1｜圖面特徵元素指認
+1. 垂直動線
+* 電梯核心
+* 樓梯間
+* 建築入口大廳
+* 地下停車場連接核心
+2. 線性元素
+* 中央景觀步道
+* 基地周邊人行道
+* 建築入口動線
+* 濱水步行空間
+* 街角廣場連接軸線
+3. 機能空間
+* 住宅單元
+* 商業空間／店鋪
+* 公共廣場
+* 中庭綠地
+* 地下停車空間
+* 公共休憩平台
+4. 開放空間元素
+* 中央共享庭園
+* 街角節點廣場
+* 濱水開放空間
+* 景觀植栽帶
+* 建築退縮廣場
+5. 量體元素
+* 三棟獨立住宅量體
+* 街道側低層量體
+* 濱水側主要住宅量體
+* 地下共同基座
+________________
+
+
+Step2｜空間關係分析
+1. 聚落式量體配置
+三棟住宅量體以分離配置圍塑中央開放空間，形成建築群與公共廣場共構的關係，藉由降低量體尺度回應周邊歷史街區的都市紋理。
+2. 中央庭園串聯
+中央景觀庭園位於各棟建築之間，成為住宅入口、商業空間與公共活動的共享核心，使居民與訪客能透過同一公共空間建立交流關係。
+3. 開放空間層級化
+空間由街道廣場、中央庭園到住宅入口逐步遞進，形成公共—半公共—私人空間序列，兼顧都市開放性與住宅隱私性。
+4. 建築與廣場的鄰近性
+住宅入口均面向中央廣場配置，使日常出入活動自然匯聚於共享空間，提高社區互動與公共空間使用頻率。
+5. 景觀軸線連接
+景觀步道沿基地中心穿越並串聯各棟建築入口，使分散量體形成完整的步行系統，同時強化基地內部的方向感。
+6. 商業與住宅分區
+商業空間主要配置於街道側與開放廣場周邊，住宅則向上發展並遠離主要人流，使公共活動與居住生活維持適當區隔。
+7. 垂直核心群聚
+每棟住宅皆以電梯與樓梯核心整合住宅單元，形成獨立的垂直社群單元，降低單棟服務戶數並提升居住品質。
+8. 地下基座共用
+三棟建築透過地下停車基座相互連結，使停車、設備與服務空間集中管理，同時釋放地面層作為公共開放空間。
+9. 住宅單元朝向共享景觀
+住宅單元多面向中央庭園與濱水景觀配置，使私人居住空間與公共綠地建立視覺連結，提升環境品質與居住價值。
+10. 建築與濱水空間互動
+基地北側留設大面積開放空間與步道系統，使建築群與港灣環境保持直接連結，延伸城市公共活動至水岸邊緣。
+11. 街角節點聚集
+基地轉角處設置較大的開放廣場與植栽節點，作為街道動線與基地入口的交會空間，提升場所辨識度與停留機會。
+12. 剖面量體漸層
+建築量體由街道側向內部逐漸升高，形成由都市尺度過渡至住宅尺度的層次關係，減輕大型開發對周邊環境的壓迫感。
+13. 地面層開放化
+各棟建築地面層透過退縮與穿越空間連結中央廣場，使建築基座不形成阻隔，而成為公共活動的延伸場域。
+14. 植栽與動線整合
+景觀植栽沿步行路徑與廣場節點配置，透過綠化引導人流方向，同時創造休憩與停留的微型公共空間。
+15. 社區共享核心
+中央廣場結合景觀、入口與步行系統，成為三棟住宅共同使用的社區核心，建立跨棟居民之間的交流平台與共享生活場域。
+P2:case12(室內)
+1. 材料
+白色木地板、霧面藍色櫥櫃與清水混凝土牆形成軟硬對比，細膩木紋帶來溫暖感受，而裸露混凝土則賦予空間沉穩且理性的氛圍。
+2. 顏色
+大面積白色基調搭配藍色櫥櫃點綴，冷色系色彩營造出安靜、清爽且富有現代感的居住環境。
+3. 設計語彙
+斜屋頂天花、線性廚房配置與整合式收納系統共同強化空間的縱深感，引導視線向端景牆面延伸，塑造簡潔且有秩序的空間感受。
+4. 光線
+天窗與側向開窗引入均勻的自然光，柔和的漫射光充滿整體空間，使室內呈現明亮、純淨且舒適的氛圍。
+5. 窗景
+大面積開窗將外部天空與城市景觀引入室內，增加視覺延伸性與自然連結感，使空間在高挑尺度下更顯開闊通透。
+P2:case12(室外)
+1. 材料
+紅褐色磚牆、木質碼頭平台與大面積玻璃帷幕共同構成建築界面，粗獷而細膩的材質對比營造出兼具歷史感與現代感的濱水空間氛圍。
+2. 顏色
+暖紅色磚材搭配灰色鋪面、深色金屬框架與港灣水面色調，形成沉穩且富層次的色彩組合，使建築展現溫暖而內斂的都市氣質。
+3. 設計語彙
+連續斜屋頂量體呼應周邊倉庫建築語彙，透過簡化的幾何輪廓引導視線沿水岸延展，建立新舊城市景觀之間的連續性。
+6. 綠化
+基地綠化主要集中於街道植栽與內部景觀空間，以適度的綠意柔化硬質碼頭環境，營造舒適且具生活感的公共空間。
+7. 周遭環境
+建築坐落於港灣水岸邊緣，透過碼頭平台、步道與開放空間直接連結水域活動，使居民與訪客能持續感受港口文化與濱水景觀的獨特魅力。
+網頁資料[archdaily]
+Text description provided by the architects. Krøyers Plads is a five-story housing project with a significant location in the centre of the Copenhagen harbour area designed by Danish architects Vilhelm Lauritzen Architects and COBE. The award-winning and Nordic Eco-labelled project is now finished. The project is based on a hyper-democratic and contextual approach where folded roofs and architectural heaviness create a dialogue between old and new, and a modern, empathetic interpretation of the architectural uniqueness of the old Copenhagen warehouses. 
+
+
+Krøyers Plads is a significant location in the centre of the Copenhagen harbour area. The site constituted a gap in the continuous rows of old warehouses that sit perpendicular to the harbour and was an architectural and political battle eld in Copenhagen for more than a decade. When the nal building design for this beautiful historical site was developed by Vilhelm Lauritzen Architects and COBE, many architectural proposals had already been rejected by local organizations and politicians for various reasons. 
+
+
+With a prime location in the Copenhagen harbour, opposite the Royal
+Playhouse, the historical Nyhavn, and next to the world’s best restaurant, Noma, the project consists of 3 story housing units with 105 apartments ranging from 79 to 250 m2 in size. The ground floor of the three buildings houses restaurants, shops and a supermarket. Krøyers Plads is surrounded by a wooden waterfront promenade, which has become a favorite spot to catch the sun in the Danish summers. 
+
+
+A hyper-democratic approach
+Set between 300-year-old industrial warehouses the new development is based on the constraints and demands from the public voices of Copenhageners and is a modern interpretation of the old buildings that are so characteristic for the harbour front in Copenhagen. 
+
+
+”The neighbours were for instance invited to help define the height of the buildings and to help select the materials – both crucial for the way the new Krøyers Plads relates to its surroundings. Instead of inventing a new building typology, Krøyers Plads became a reinvention of the one already found adjacent to the site – the industrial warehouse,” says Dan Stubbergaard, Founder and Creative Director at COBE.
+The design is based on a hyper-democratic approach. An architectural storytelling that through a dialogue with the local community strives to create a meaningful and comprehensive in ll. The approach was to translate all signi cant characteristics of the old warehouses, such as the harbour facing gables, the heavy expression, building height and materiality, into modern design parameters that meet both functional and climatic demands. 
+The design by Vilhelm Lauritzen Architects and COBE was begun in 2011. In 2013, construction started and now the modern housing project is finished and the new owners have moved in.

@@ -1,0 +1,96 @@
+﻿P1:case07(圖面)
+Step1｜圖面特徵元素指認
+1. 垂直動線
+圖面中可辨識出兩個圓形核心空間，位於地面層平面的左下與右上區域，核心內部可見環形樓梯或垂直交通構造。剖面與立面圖中，兩棟塔樓皆有明顯的垂直核心，連續貫穿地面層、裙樓與上部住宅樓層，推測為電梯、樓梯與設備井集中區。
+2. 線性元素
+地面層可見多條線性動線，包括基地邊界旁的步道、沿街通行路徑、連接兩個圓形量體與中央廣場的水平動線，以及剖面中斜向上升的坡道或屋頂平台。這些線性元素形成地面層的主要通行骨架，也串聯戶外廣場、入口與塔樓核心。
+3. 機能空間
+平面圖中可辨識出住宅單元、公共大廳、開放廣場、圓形庭院或中庭、服務空間與後勤空間。立面與剖面圖顯示上部為重複排列的居住單元，外圍配置大量陽台或外遮陽構件；下部則為較開放的公共或社區性空間。
+4. 外部開放空間
+地面層中央有大面積鋪面廣場，並配置樹木、圓形中庭、戶外座位或景觀節點。右下方的大圓形開放區域形成主要公共活動核心，與兩個圓形建築量體及周邊步道相互連接。
+5. 立面構件與陽台系統
+立面圖中可見塔樓外側有連續、重複、向外突出的三角形或折板狀構件，形成強烈的水平層疊效果。這些構件可能作為陽台、遮陽板、立面框架或半戶外緩衝空間，強化住宅單元與外部環境的互動。
+6. 群聚量體
+整體建築由兩棟高層塔樓、地面圓形量體、低層裙樓與開放廣場共同組成。量體不是單一封閉建築，而是以多個核心、平台與戶外空間群聚形成一個複合式社區系統。
+________________
+
+
+Step2｜特徵元素之間的空間關係分析
+1. 核心集中與放射配置
+兩個圓形核心將樓梯、電梯與設備等垂直動線集中在中心，周邊空間則以放射狀方式展開，形成「中心服務、外圈使用」的平面組織。其動機是提高動線效率，並讓公共或居住空間能圍繞核心取得較好的採光、視野與可達性。
+2. 地面開放空間串聯量體
+中央廣場、圓形庭院與步道將左下與右上的圓形量體連接起來，使建築不只是由室內空間構成，而是透過戶外平台形成連續的公共生活場域。其動機是強化社區互動，讓居民或訪客在進入塔樓前先經過共享廣場，建立公共性與交流機會。
+3. 垂直分層的機能邏輯
+剖面與立面顯示，下部裙樓較偏向公共、入口與服務機能，上部塔樓則為重複排列的住宅單元，形成由公共到私密的垂直層級。其動機是將人流較多、對外開放的活動放在地面與低層，並將居住空間抬升到較安靜、採光與視野較佳的位置。
+4. 線性坡道作為連接與過渡
+剖面中的斜向坡道或屋頂平台連接地面層與較高的平台空間，讓基地內的移動不只依賴電梯與樓梯，也透過緩坡形成連續的步行經驗。其動機是創造可漫遊的公共路徑，使建築、地景與廣場之間產生更柔性的過渡。
+5. 陽台與立面構件形成半戶外緩衝
+塔樓外圍連續突出的陽台或折板構件，位於居住單元與外部環境之間，形成由室內到戶外的中介層。其動機是提供遮陽、通風、景觀停留與私密緩衝，同時也讓立面產生統一且具節奏感的建築表情。
+6. 圓形空間與矩形塔樓的對比組織
+平面中圓形核心與圓形廣場形成聚集性空間，而立面中的塔樓則以矩形單元垂直堆疊，呈現「圓形公共核心」與「線性住宅模矩」的對比。其動機是利用圓形空間凝聚公共活動，再以規則住宅模矩提高居住單元配置效率。
+7. 群聚式配置強化共享性
+兩棟塔樓與地面公共空間並非彼此獨立，而是透過共同平台、廣場與核心動線形成一個共享系統。其動機是將住宅生活從單一單元延伸到集體空間，讓公共設施、景觀與交通節點可以被多個量體共同使用。
+8. 邊界步道與內部廣場形成內外層級
+基地外緣的線性步道負責連接城市或街道系統，內部則透過廣場與庭院組織較內向的活動場域。其動機是建立由城市介面到社區內部的空間層級，使建築既能對外開放，也能在內部形成較具歸屬感的生活核心。
+
+
+
+
+P2:case07(室內)
+1. 材料
+* 木質櫃體、木地板與木質天花的細膩紋理營造溫暖且具包覆感的氛圍，使人產生放鬆與安定的心理感受。
+* 玻璃窗面平滑且具反射性，增加空間通透感與輕盈感，使室內顯得更加開闊。
+* 金屬燈具與五金構件的硬質表面帶來俐落、現代且具秩序感的空間印象。
+2. 顏色
+* 大面積暖棕色木材提升空間溫度感，使室內呈現舒適、親切且具有居家感的氛圍。
+* 橘色臥榻坐墊作為視覺焦點，為空間注入活力與溫馨感受。
+* 黑色吊燈與深色家具細節形成視覺平衡，使空間在溫暖中保有沉穩與現代感。
+3. 設計語彙
+* 狹長型平面配置搭配兩側連續收納櫃體，引導視線向空間盡端延伸，強化空間深度感。
+* 大面積落地窗作為視覺終點，將景觀納入室內，創造開放且具有方向性的空間體驗。
+* 整合式收納設計減少視覺干擾，使空間呈現簡潔、有序且寧靜的感受。
+4. 光線
+* 大面開窗引入充足自然光，使空間明亮通透，營造舒適且具有生命力的氛圍。
+* 低角度陽光穿越欄杆形成細長光影，增添空間的層次感與時間流動感。
+* 吊燈提供局部照明，使夜間空間仍能維持溫暖且具有生活尺度的氛圍。
+5. 窗景
+* 落地窗框景遠方水岸、城市天際線與天空景觀，帶來開闊且放鬆的心理感受。
+* 陽台作為室內與外部景觀之間的過渡空間，強化與自然環境的連結感。
+* 自然光與遠景共同延伸室內視覺範圍，使有限的居住空間產生更大的開放感與舒適度。
+P2:case07(室外)
+
+
+1. 材料
+* 金屬板、金屬欄杆與玻璃帷幕等硬質材料構成立面主體，其俐落且精密的質感帶來現代、理性且具有科技感的心理感受。
+* 重複折疊的金屬構件形成細膩的光影紋理，減弱高層建築的厚重感，使量體顯得輕盈且富有動態。
+* 透明玻璃與金屬框架的搭配強化內外視覺連結，營造開放且通透的空間印象。
+2. 顏色
+* 建築外殼以銀灰色金屬為主色調，傳達冷靜、理性且精緻的現代感。
+* 黃昏陽光映照於立面表面，產生金黃色光澤，使原本冷色調建築增添溫暖與活力。
+* 淡藍色天空作為背景，襯托建築的金屬質感，使整體畫面呈現清爽且開闊的氛圍。
+3. 設計語彙
+* 大量三角折板與向外延伸的陽台構件形成強烈的幾何節奏，引導視線沿建築立面向上移動，強化垂直性與地標感。
+* 扭轉式立面與層層堆疊的陽台語彙打破傳統高層住宅的單調感，使建築呈現流動且雕塑化的空間表情。
+* 重複排列的折板構件形成豐富陰影層次，使立面具有動態感與視覺張力。
+4. 綠化
+* 基地周邊配置低矮灌木與植栽帶，柔化道路與建築之間的硬質界面，提升環境的舒適度。
+* 綠化雖非主要設計元素，但適度植栽有助於降低都市空間的冷硬感，增加自然親和力。
+* 建築與周邊綠帶形成對比，使高密度開發區仍保有部分生態與景觀緩衝空間。
+5. 周遭環境
+* 建築座落於交通設施、橋體與都市開發區交會的位置，展現高度都市化與基礎建設導向的環境特徵。
+* 周邊道路、高架結構與商辦建築形成開放的大尺度都市景觀，強化建築作為城市地標的辨識度。
+* 水岸空間、交通節點與現代建築群共同構成多元都市界面，使環境呈現活力、流動且具未來感的都市氛圍。
+
+
+
+
+網頁資料[archdaily]
+
+
+Near Dybbølsbro Station, you'll find two towers that distinguish themselves from most other buildnings in Copenhagen. Kaktus Towers are constructed around a central core, and acquire a complex and sculptural expression thanks to a facade that twists at each floor level. The building's exterior consists of almost 500 pointed balconies that coil themselves around the entire structure, clearly referencing the spiky desert plant. The jagged appearance is softened by a facade that reflects the last rays of sunlight in a golden hue – a sharp contrast to the building's otherwise harsh appearance.
+Crooked Angles
+Housing nearly 500 small apartments, Kaktus Towers offer one to two rooms, complete with their own balcony. The sharp angles and sloped walls create a challenging space to decorate with traditional furniture. This is why the apartments come equipped with multifunctional fixtures and furnishings. The bedroom can be transformed into a living room, and the desk into a dining table. The idea behind the towers was to create a blend of private life and community – which is why the buildings house shared facilities such as a gym, kitchen, laundry room, and outdoor barbecue area that ensure residents interact with each other. The aim is that these shared areas will cultivate a sense of community among the residents and help alleviate the loneliness that expats or city dwellers living alone may experience.
+Controversial Architecture
+Once completed, Kaktus Towers received a mixed reception. Their unique appearance caused the most debate – were they ugly or beautiful? The rental prices and construction quality were also hot topics of discussion. Perhaps that's the nature of cacti – they can be prickly. It was the same case in Esbjerg, where the first version of Kaktus Towers was completed in 2021. And it will likely be the case if BIG fulfills their vision of constructing similar, eye-catching high rises in other cities.
+Near Kaktus Towers
+The two towers are part of Copenhagen's answer to New York's High Line Park - a green, elevated, and publicly accessible park that stretches from the towers, passes the Tivoli Hotel, and ends at the SEB Bank headquarters. Diagonally across from Kaktus Towers, you can see the Bicycle Snake, a bike bridge that winds around Fisketorvet to connect Dybbølsbro with the Brygge Bridge, creating a shortcut for a multitude of cyclists. The Bicycle Snake concludes at the outermost pier of Havneholmen, where you'll find the Aller Media House: a triangular wedge made of glass, steel, and aluminum.
