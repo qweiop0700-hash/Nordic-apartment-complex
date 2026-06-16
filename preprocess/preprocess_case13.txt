@@ -1,0 +1,94 @@
+﻿P1:case13(圖面)
+Step1｜圖面特徵元素指認
+1. 垂直動線
+* 電梯核心（兩組）
+* 樓梯間（與電梯整合配置）
+* 服務空間與設備核心
+2. 線性元素
+* 中央主走廊
+* 單元入口前室
+* 核心間連接動線
+* 周邊環繞式流通空間
+3. 機能空間
+* 大坪數住宅單元
+* 客廳／起居空間
+* 餐廳與開放式廚房
+* 臥室空間
+* 衛浴與服務空間
+* 私人露台
+4. 開放空間元素
+* 角部景觀露台
+* 大面積外部陽台
+* 端部公共視野空間
+5. 量體元素
+* 線性長條量體
+* 雙核心配置系統
+* 周邊退縮量體
+* 不規則外牆界面
+________________
+
+
+Step2｜空間關係分析
+1. 中央核心串聯
+兩組電梯與樓梯核心沿建築中央軸線配置，透過共用走廊串聯所有住宅單元，形成高效率的垂直與水平交通系統。
+2. 雙核心分區
+建築以兩組垂直核心分擔不同區段的住宅單元，使住戶數量被分散管理，降低單一核心的使用負荷並提升居住私密性。
+3. 單元環繞核心配置
+住宅單元圍繞交通核心排列，形成「核心—前室—住宅」的層級關係，使主要生活空間遠離公共動線干擾。
+4. 公私漸層遞進
+住戶需經過電梯廳、前室及入口空間後方能進入住宅內部，建立公共、半公共與私人空間逐步轉換的使用層次。
+5. 客廳與露台連結
+主要起居空間皆鄰接外部露台配置，透過大面開口與戶外空間相連，強化採光、景觀與生活延伸性。
+6. 景觀導向布局
+客廳與餐廳多位於量體外圍及端部位置，使主要生活空間能獲得最佳視野，而服務空間則集中於核心周邊。
+7. 角部露台強化視野
+建築外牆轉角處設置多邊形露台，形成景觀節點，使住宅單元獲得多方向採光與開闊的外部視野。
+8. 機能群聚配置
+廚房、衛浴與設備空間集中鄰近核心區域配置，共享垂直管道系統，以提高空間效率並簡化設備整合。
+9. 住宅模組重複
+中段住宅單元以相似模組重複排列，共用相同結構與服務系統，在維持居住品質的同時提高建築經濟性。
+10. 端部公共性較高
+建築兩端設置尺度較大的住宅與起居空間，透過較大的客餐廳與露台形成量體端景，強化建築的整體識別性。
+11. 動線集中、居住外圍化
+交通動線集中於中央帶狀區域，而居住空間配置於外圍界面，使活動空間享有較佳採光與通風條件。
+12. 核心與住宅的共用關係
+每組核心服務數個住宅單元，形成小規模共享社群，兼顧集合住宅效率與較高的鄰里辨識度。
+13. 不規則外牆回應景觀
+量體邊界透過斜切與退縮形成不規則輪廓，使住宅單元能獲得不同角度的視野，並降低長條量體的單調感。
+14. 採光向外集中
+所有主要居住空間均面向建築外牆配置，而核心與服務空間位於中央，使自然採光能最大化滲透至日常活動區域。
+15. 住宅與戶外空間整合
+露台作為住宅單元的延伸空間，直接連接客廳與餐廳，建立室內生活與外部景觀之間的過渡介面，提升居住品質與環境互動性。
+P2:case13(室內)
+1. 材料
+裸露清水混凝土牆、柱與梁完整保留施工紋理，搭配深色木地板、金屬構件與布質家具，粗獷與溫潤材質的對比營造出沉穩且富有歷史感的空間氛圍。
+2. 顏色
+空間以灰色混凝土、深褐色木材與黑色金屬為主調，低彩度色彩組合帶來冷靜、內斂且具雕塑感的視覺印象。
+3. 設計語彙
+厚重結構框架、深凹窗洞與重複排列的垂直開口形成強烈秩序，引導視線沿著結構節奏向外部景觀延伸，強化空間的紀念性與深度感。
+4. 光線
+高側窗與落地開口引入大面積自然光，搭配聚焦式軌道燈與吊燈照明，在混凝土表面形成明暗對比，使空間呈現安靜且富有戲劇張力的氛圍。
+5. 窗景
+深窗洞與大型落地窗將港灣與城市景觀轉化為框景，引入充足自然光的同時，也創造室內與外部環境之間強烈的視覺連結與開放感。
+P2:case13(室外)
+1. 材料
+折板狀預鑄混凝土外牆、大面積玻璃帷幕與金屬欄杆共同構成建築表皮，堅硬且富雕塑感的材質語彙營造出強烈、前衛且具有地標性的空間印象。
+2. 顏色
+建築以淺灰色混凝土、透明玻璃與深色金屬為主調，冷色系的低彩度組合塑造出理性、純粹且富有現代感的都市氛圍。
+3. 設計語彙
+重複排列的立體折板立面形成強烈光影層次與垂直節奏，引導視線向上延伸，強化建築的雕塑感與地標性形象。
+6. 綠化
+基地周邊綠化較少，主要以開放水岸空間作為景觀主體，使建築量體更直接地與港灣環境產生對話，呈現開闊且簡潔的場域特質。
+7. 周遭環境
+建築座落於港灣第一排水岸位置，與周邊低層磚造住宅形成新舊對比，透過獨特量體與水面倒影建立鮮明的都市天際線與場所識別性。
+網頁資料[archdaily]
+Text description provided by the architects. The Silo is part of the transformation of Copenhagen’s Nordhavn (North Harbour) – a vast post-industrial development, currently being transformed into a new city district. Designed by Danish architects COBE with clients Klaus Kastbjerg and NRE Denmark, a 17-storey former grain silo and the largest industrial building in the area has been transformed into “The Silo”, housing residential apartments and public functions. 
+Inside-out transformation
+In order to bring The Silo’s industrial concrete facade up to current standards, the exterior of the existing silo has been reclad, while the interior has been preserved as raw and untouched as possible. An angular faceted exterior facade made of galvanized steel has been installed to serve as a limate shield. This has allowed the building’s characteristic slender tall shape to be maintained.
+Dan Stubbergaard, Founder and Creative Director of COBE, says: “We wanted to retain the spirit of The Silo as much as possible – both in terms of its monolithic exterior and majestic concrete interior, by simply draping it with a new overcoat. The aim was to transform it from the inside out in such a way that its new inhabitants and the surrounding urban life would highlight the structure's identity and heritage. Hence, the use of galvanized steel for the facade, which patinates in a raw way and retains the original harbour character and material feel, lending a roughness and raw beauty to the area, as in its industrial past.” 
+The spatial variation within the original silo is immense due to the various functions of storing and handling grain, creating space for 38 unique apartments. Single and multi-level apartments range from 106 m2 to 401 m2 in size, with floor heights of up to 7 meters. All apartments have panoramic, floor-to-ceiling windows and balconies, and several have been preserved in raw concrete. The window frames are hidden on the outside of the existing concrete walls, offering expansive views of the city skyline and the Oresund coast. 
+A mix of private and public functions
+Both the top and lower levels have public access. The top floor consists of a mirrored glass box housing a public restaurant with a 360-degree view of the city and the sea. The glass facade mirrors the surroundings in the daytime, and at night it is reminiscent of a lantern. The ground floor is designed as a flexible event space.
+Dan Stubbergaard says: “Private housing and public functions ensure that the building remains active all day. The public functions at the top and bottom also ensure a multidimensional experience for the various users of the building. From the top you can see almost all of Copenhagen in one panoramic view. It is completely unique, and something all Copenhageners will have the chance to experience. The Silo will be inhabited, but will also be a destination. An urban focal point for the new development at Nordhavn.” 
+an Stubbergaard continues: “By revitalizing our industrial heritage, we discover new potential and highlight historical traces in our cities. They represent a built resource. They represent our history. By doing so, we can transform what many people today perceive as industrial trash into treasure.”
+The Silo was completed in May 2017, when its first residents moved in. The remaining residents will move in during the next couple of months, and the restaurant on the top floor is due to open later this year. CPH City & Port Development is currently showing an exhibition on the ground floor of the building on the future development plans for Nordhavn, also created by COBE.

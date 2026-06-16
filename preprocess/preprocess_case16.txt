@@ -1,0 +1,79 @@
+﻿P1:case16(圖面)
+
+
+Step1｜圖面特徵元素指認
+1. 垂直動線：圖面中央偏下方配置樓梯，中央區域另設電梯，形成住戶上下樓層轉換的主要核心。
+2. 線性元素：中央入口大廳與左右兩側走廊構成水平動線，串聯各居住單元、樓梯與電梯。
+3. 機能空間：左右兩側配置多組居住單元，單元內包含臥室、衛浴、廚房、客餐廳等生活機能。
+4. 公共／半公共空間：中央入口、大廳與動線節點形成住戶共同使用的集散空間，作為外部進入住宅單元前的緩衝區。
+5. 服務空間：衛浴、廚房與儲藏等空間多貼近單元內側或走廊側配置，形成較集中的設備服務帶。
+6. 開口與外牆界面：居住單元主要沿外牆配置，透過外側窗戶取得採光與通風。
+
+
+Step2｜特徵元素之空間關係分析
+1. 中央核心分配：樓梯、電梯與入口大廳集中於平面中央，並向左右兩側走廊分配人流，動機在於縮短住戶抵達各居住單元的路徑並提高垂直動線的可及性。
+2. 左右對稱群聚：居住單元以中央公共核心為軸線，於左右兩側近似對稱排列，動機在於建立清楚的住宅模組秩序，並提升平面配置效率。
+3. 公共到私密的層級轉換：空間由中央入口與大廳進入走廊，再進入各居住單元與臥室，形成由公共、半公共到私密的遞進關係，動機在於維持住宅生活的隱私與動線秩序。
+4. 水平與垂直動線連接：走廊直接銜接樓梯、電梯與各戶入口，使水平移動與垂直移動整合於同一核心系統，動機在於提升逃生、日常通行與樓層轉換的效率。
+5. 服務空間集中：廚房、衛浴與儲藏空間多靠近走廊側或單元內部配置，並與主要生活空間分區，動機在於集中管線與設備，提高施工與維護效率。
+6. 居住空間臨外配置：客廳、臥室等主要生活空間多沿外牆排列，並透過窗戶面向外部，動機在於取得自然採光、通風與較佳的居住品質。
+
+
+P2:case16(室內)
+
+
+【室內空間分析】
+
+
+1. 材料
+深色布質沙發與柔軟窗簾形成細膩且具包覆感的材質對比，使空間呈現溫暖、放鬆且具有居家安全感的氛圍。
+
+
+2. 顏色
+白色牆面搭配灰粉色窗簾與深色家具，透過低彩度暖色系配置營造平靜、舒適且帶有柔和溫度的心理感受。
+
+
+3. 設計語彙
+高挑落地窗與垂直窗框構成強烈軸線，引導視線向外延伸至陽台與城市景觀，提升空間的開放感與縱深感。
+
+
+4. 光線
+大面積落地窗引入充足自然光，以偏冷白的漫射光均勻照亮室內，使空間顯得明亮、通透且富有清新感。
+
+
+5. 窗景
+落地窗框景結合陽台與遠方都市景觀，自然光與外部視野共同強化室內外連結，營造開闊、自由且具生活感的空間氛圍。
+
+
+P2:case16(室外)
+
+
+【室外空間分析】
+
+
+1. 材料
+大面積木質立面與陽台構架展現溫潤細緻的天然紋理，搭配金屬欄杆的輕巧硬質質感，營造親近自然且兼具秩序感的居住氛圍。
+
+
+2. 顏色
+暖棕色木材與淺灰色建築背景形成冷暖對比，使建築呈現溫暖、舒適且具生活感的視覺印象。
+
+
+3. 設計語彙
+重複排列的陽台模組與垂直框架構成鮮明韻律，引導視線沿建築立面向上延伸，強化整體秩序感與量體高度感。
+
+
+6. 綠化
+基地臨水配置並保留高大喬木與草地景觀，綠意與開放水岸共同營造放鬆、寧靜且具生態親和力的空間感受。
+
+
+7. 周遭環境
+建築座落於水岸住宅區，前方河道倒映建築立面、側邊連接步行街道與鄰棟住宅，形成兼具自然景觀與都市生活機能的環境特質。
+
+
+網頁資料[Archdaily]
+Text description provided by the architects. Kajstaden - Tall Timber Building is an important landmark for sustainable construction and a reference project that shows that conversion to climate-conscious architecture is possible. Through research projects and several active wood projects, C.F. Møller Architects has focused on innovation as well as developing and implementing multi-storey buildings with solid wood frames. In Kajstaden, an active decision was made to prioritise industrial timber techniques for the building material to influence and take responsibility for the impact of the construction industry on the environment and climate change. A crucial advantage of wood, unlike other building materials, is that the production chain for the material produces a limited amount of carbon dioxide emissions. Instead, it is part of a closed cycle, where carbon is retained in the frame of the building.
+Research also shows that buildings with a wooden frame make a positive contribution to human health and well-being- thanks to better air quality and acoustic qualities.
+The Kajstaden - Tall Timber Building is nine floors high with an elevated ground floor and a top floor with a double-height ceiling. The high precision technology involved in CNC-milled solid timber with glulam elements results in air-tight and energy-efficient houses without other unnecessary materials in the walls. The low weight of the material means fewer deliveries to the construction site and a more efficient, safer and quieter working environment during construction. It took an average of three days per floor for three craftsmen to raise the frame. Mechanical joints with screws have been used, which means that the building can be taken apart so that the materials can be recycled. The total carbon dioxide saving is estimated to be 550 tonnes of CO2 when using solid wood instead of concrete.
+Kajstaden is a central residential neighborhood near the water in the Öster Mälarstrand area of Västerås. The new neighbourhood is designed as a city block and is a natural extension of Västerås city centre.
+The area includes Mälarparken and Notuddsparken, which link together to form a cohesive green area. The neighborhood has a generous view of Lake Mälaren and is located directly adjacent to the square and the quayside promenade. The concept includes an electric boat sharing scheme and a special chilled room in the lobby for food deliveries from MatHem.

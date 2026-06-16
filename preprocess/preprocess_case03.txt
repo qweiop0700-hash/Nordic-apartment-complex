@@ -1,0 +1,168 @@
+﻿P1:case03
+
+
+[Step1｜圖面特徵元素指認]
+
+
+1. 垂直動線
+- 樓梯
+- 電梯核心
+- 端部垂直交通核
+- 多層住宅間的垂直連接系統
+
+
+2. 線性元素
+- 各樓層水平走廊
+- 地面層連續通道
+- 剖面中的結構網格與樓板線
+- 量體外緣斜向屋頂線
+
+
+3. 機能空間
+- 居住單元
+- 複層住宅單元
+- 地面層停車空間
+- 公共入口與服務空間
+- 屋頂或高層露台空間
+
+
+4. 開放空間
+- 量體間凹入之開放空間
+- 建築低點形成的中介空間
+- 高層露台與半戶外平台
+- 地面層架空或開放區域
+
+
+--------------------------------------------------
+
+
+[Step2｜特徵元素空間關係分析]
+
+
+1. 波浪式量體分節
+建築剖面以連續高低起伏的量體組成，住宅單元依坡形輪廓逐層堆疊；藉由量體分節降低大型集合住宅的壓迫感，並創造具有辨識性的天際線。
+
+
+2. 垂直核心集中服務
+樓梯與電梯核心配置於量體高點或主要節點位置，並連接各層住宅與地面層空間；透過集中垂直動線提高各住戶可達性，同時簡化交通與避難系統。
+
+
+3. 水平走廊串聯住宅
+各樓層水平走廊連接連續排列的居住單元，形成清楚的線性通行系統；此配置提高平面使用效率，並讓多戶住宅共享同一交通資源。
+
+
+4. 居住單元階梯式堆疊
+住宅單元沿斜向屋頂線逐層退縮或升高，形成階梯式剖面關係；藉由垂直錯層配置改善採光與視野，也增加不同戶型的空間變化。
+
+
+5. 地面層支援機能
+地面層配置停車、入口與服務空間，作為上方住宅量體的支撐基座；透過將車行與後勤機能集中於下層，可維持上層居住空間的安靜與完整性。
+
+
+6. 凹谷空間作為公共節點
+兩段高層量體之間形成凹入低點，並連接地面或公共平台；藉由量體下凹創造視覺與動線上的停留節點，強化住戶共享與交流的可能。
+
+
+7. 公私層級垂直分化
+下層以停車與公共服務為主，中上層轉為住宅單元與半戶外露台；空間由公共支援逐步過渡至私密居住，形成清晰的垂直層級邏輯。
+
+
+8. 露台與住宅相鄰
+部分高層或退縮樓層設置露台，並直接鄰接住宅單元或公共走廊；透過戶外平台引入光線與休憩機能，提供居住空間向外延伸的過渡界面。
+
+
+9. 結構網格統合空間
+剖面中的柱列與樓板線形成規律結構網格，住宅、走廊與停車空間皆依此配置；藉由結構模矩整合不同機能，提高建築施工與空間配置效率。
+
+
+10. 重複單元形成群聚
+住宅單元於各樓層重複排列，並以相似尺度構成連續居住群組；透過模組化群聚方式提升居住密度，同時維持單元配置的秩序性。
+
+
+11. 量體高低導引採光
+建築高低起伏與中間凹谷讓部分內側空間獲得較佳日照與通風；藉由剖面退縮與開口配置，降低深進平面可能造成的採光不足問題。
+
+
+12. 交通核心與公共空間鄰近
+主要樓梯、電梯與公共平台相鄰配置，形成容易辨識的交通節點；此關係可提升公共空間的使用率，並讓垂直移動過程轉化為社交互動機會。
+
+
+
+
+P2:case03
+
+
+[室外空間感受分析]
+
+
+1. 材料
+建築以白色金屬板、玻璃帷幕與玻璃陽台欄杆構成主要外觀，呈現光滑且精緻的材料特性；硬質且高反射的材質帶來現代、純淨且具有未來感的心理感受。
+
+
+2. 顏色
+立面以白色與淺灰色為主，搭配玻璃反射的藍色天空與水面色彩；冷色系營造出寧靜、輕盈且優雅的空間氛圍，使建築呈現如雕塑般的純粹感。
+
+
+3. 設計語彙
+建築以連續波浪形量體作為核心設計語彙，形成起伏流動的天際線；曲線輪廓引導視線沿建築水平延展，帶來律動感、方向感與地標性的空間體驗。
+
+
+4. 綠化
+建築周邊綠化以草地、行道樹及遠方森林景觀為主，覆蓋度中等；自然綠意柔化大型建築量體，提升居住環境的舒適度與親自然感受。
+
+
+5. 周遭環境
+基地臨近港灣、水岸步道及開放公共空間，並面向大片水體景觀；寬闊的視野與水岸環境營造出悠閒、放鬆且具有度假氛圍的生活體驗。
+
+
+--------------------------------------------------
+
+
+[整體空間氛圍]
+
+
+建築透過連續波浪形量體、純白外殼與大面積玻璃立面塑造強烈地標意象，並結合水岸景觀與開放公共空間，使整體呈現優雅、流動且富有自然詩意的居住環境。
+
+
+P2:case03（室內）
+
+
+[室內空間感受分析]
+
+
+1. 材料
+大面積玻璃帷幕搭配木質地板、布質沙發與金屬家具，形成透明、溫潤與精緻並存的材質組合；木材與織品增加舒適感，而玻璃與金屬則帶來現代且輕盈的心理感受。
+
+
+2. 顏色
+空間以白色牆面、淺灰家具及自然木色為主，局部搭配暖色系單椅與抱枕；冷暖色彩平衡營造出明亮、優雅且具居家溫度的氛圍。
+
+
+3. 設計語彙
+室內延續建築波浪形外殼的弧形開窗與挑高空間語彙，形成流動且連續的視覺效果；曲線框景引導視線向外部水岸景觀延伸，強化空間開放感。
+
+
+4. 光線
+大量自然光透過挑高弧形玻璃窗進入室內，形成均勻且柔和的日光環境；高亮度採光提升通透感，使空間呈現寧靜且充滿活力的氛圍。
+
+
+5. 窗景
+大型弧形窗框取港灣、水面與天空景觀，形成具畫面感的框景效果；開闊的自然視野降低室內封閉感，帶來放鬆、平靜且接近自然的心理感受。
+
+
+--------------------------------------------------
+
+
+[整體空間氛圍]
+
+
+空間透過挑高尺度、弧形玻璃開口與簡潔現代家具配置，營造出明亮、優雅且極具開放感的居住環境；外部水岸景觀與充足自然光共同塑造出寧靜、舒適且富有度假感的生活氛圍。
+
+
+
+
+網頁資料[archdaily]
+丹麥維勒的The Wave由Henning Larsen建築師事務所設計，是一座全新獨特的住宅，融合雕塑與有機形態，成為城市的新地標。它善用地理位置與景觀，同時挑戰現有建築風格及作為住宅區的規劃。 房屋的特徵性形態與材質使其成為不斷變化的景觀元素。白天白浪反射在海面，夜晚則呈現出多彩光芒的山脈輪廓。它既模仿景觀，又透過天氣和時間變化外觀來區隔自己。 波浪的靈感來自並塑造出該地區的特色：峽灣、橋樑、城鎮與丘陵。建築清晰且易於辨識的標誌將住宅區與海洋、景觀及城鎮連結起來。 
+The distinctive building has been selected as winner of the prestigious Civic Trust Award. The Awards were presented at an official ceremony in People’s History Museum on March 4 in Manchester. ”The Wave demonstrates how Danish architects are responding to global trends without sacrificing the practicality or well-crafted detailing that have long been a signature of the Danes”, the British reviewer Michael Webb wrote in the architecture magazine Mark in February 2011. Henning Larsen Architects won the project in an invited competition in 2005 with the real estate company Bertel Nielsen as the client. Until now, two of the award-winning waves have been completed while the last three are expected to rise in the nearest future.
+The characteristic form and material of the housing allows it to be a constantly changing landscape element. During the day the white waves are reflected in the sea and at night the characteristic profile will look like illuminated multi-coloured mountains. It both mimics the landscape and sets itself apart by changing its appearance with the weather and time of day.
+The Wave is inspired by and derives its form from the characteristics of the area: the fjord, the bridge, the town and the hills. The clear and easily recognisable signature of the building connects the residential area with the sea, the landscape and the town.
