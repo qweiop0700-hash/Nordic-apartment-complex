@@ -1,0 +1,97 @@
+{
+  "case_id": "case04",
+  "project_name": "HSB Turning Torso",
+  "architect": "Santiago Calatrava",
+  "location": "Malmö, Sweden",
+  "step1_feature_identification": {
+    "vertical_circulation": [
+      "中央核心樓梯",
+      "周邊輔助樓梯"
+    ],
+    "linear_elements": [
+      "環狀迴廊",
+      "放射狀連接走道",
+      "外部進入橋道"
+    ],
+    "functional_spaces": [
+      "中央核心服務空間",
+      "環形公共展示／活動空間",
+      "外圍附屬機能空間（衛生間、服務空間）",
+      "戶外環形廣場"
+    ],
+    "open_spaces": [
+      "中央天井／核心區",
+      "外部環狀景觀空間",
+      "入口集散空間"
+    ]
+  },
+  "step2_spatial_relationship_analysis": [
+    {
+      "title": "核心與環狀組織",
+      "description": "中央核心樓梯與服務空間位於平面幾何中心，外圍則配置環形公共空間；透過向心式配置建立清晰的空間秩序，方便使用者辨識方向並集中管理動線。"
+    },
+    {
+      "title": "環形動線串聯",
+      "description": "環狀迴廊圍繞核心空間形成連續循環路徑，並串聯各機能單元；其目的在於提升空間連接性，使參觀與活動路線具備自由選擇與回遊特性。"
+    },
+    {
+      "title": "放射式連接關係",
+      "description": "各附屬機能空間以放射狀方式連接至環形走道；藉由共同依附主要迴廊系統，提高空間使用效率並縮短移動距離。"
+    },
+    {
+      "title": "入口與核心遞進",
+      "description": "外部橋道作為主要進入軸線，先連接外圍平台再導入環形空間與中央核心；形成由公共到半公共再到核心空間的層級轉換，強化到達體驗。"
+    },
+    {
+      "title": "公共空間群聚",
+      "description": "主要展示與活動空間集中配置於環形帶狀區域，並共享中央開放空間視覺；藉由群聚配置提升空間互動性與活動交流機會。"
+    },
+    {
+      "title": "核心服務共用",
+      "description": "中央核心整合垂直動線與服務設施，周邊空間共同使用該核心系統；藉此減少重複設施配置並提高空間使用效率。"
+    },
+    {
+      "title": "內外空間滲透",
+      "description": "環形室內空間與外部環狀廣場之間維持連續的視覺與動線關係；其目的在於模糊建築與地景邊界，提升公共開放性。"
+    },
+    {
+      "title": "中心層級強化",
+      "description": "平面以中央核心、環形公共空間及外圍景觀空間形成三層同心結構；透過明確的層級配置建立空間主從關係與使用秩序。"
+    }
+  ],
+  "spatial_experience_analysis": {
+    "indoor_and_general": {
+      "material": "淺色木地板與細緻木質牆面提供溫潤且具紋理的觸感，搭配平滑白色家具與玻璃桌面，形成柔和與精緻並存的心理感受，使空間顯得舒適且具現代感。",
+      "color": "整體以白色、淺灰色與淺木色為主，屬於低彩度偏冷色調的配置，營造出明亮、純淨且平靜的氛圍，同時以木色平衡冷調帶來的距離感。",
+      "design_vocabulary": "弧形牆面、圓弧天花與連續傾斜窗帶構成流動性的空間語彙，引案視線沿著建築外緣延伸至遠方景觀，強化開闊與連續的空間感受。",
+      "light": "大量自然光透過傾斜落地窗進入室內，形成柔和且均勻的漫射光環境；天花嵌燈則提供低調的輔助照明，使空間呈現明亮、安靜且具有北歐風格的氛圍。",
+      "window_view": "大面開窗將城市天際線與遠方水岸景觀納入室內視野，不僅增加自然採光，也強化居住者與外部環境的連結感，提升開放、自由且放鬆的心理感受。"
+    }
+  },
+  "web_data_archdaily": [
+    "In 1999, Calatrava was invited to design a mixed-use residential tower for a prominent site in Malmö's Western Harbor area and was planned to be exhibited during the European Housing Expo 2001 (Bo01).",
+    "The project was envisioned as an important part of the transformation program of Malmö's Western Harbor near the Øresund Bridge connecting to Sweden and Denmark.",
+    "Given the opportunity to enhance and enlarge a public area defined by the intersection of two main roads, Calatrava conceived his project as a free-standing sculptural element posed within the cityscape.",
+    "The form of the tower is based on one of his sculpture, the Turning Torso, where he abstract the form of human movement into a stack of cubes positioned elegantly around a core.",
+    "In the original sculpture, seven cubes are set around a steel support to produce a spiraling structural effect. In the HSB Turning Torso, the building's form is composed of nine box units, shaped like cubes with triangular tips.",
+    "Each unit houses five floors of about 2,000 square meters (21,500 square feet) and are in fact the 'sub-buildings' of the tower.",
+    "The tower's nucleus containing the internal elevators and stairs, through which the units communicate is the equivalent of the sculpture's steel support.",
+    "At 190 meters high, the Turning Torso is the tallest residential building in Sweden and the second tallest residential building in Europe.",
+    "At the top of the tower, visitors can see Copenhagen to the west, Falsterbo to the south, the Skane plain to the east and Helsingborg to the north.",
+    "Units one and two contain 4,000 square meters of office space. Units three through nine contain 147 apartments, varying in size from 45 to 190 square meters, summing to a total of 13,500 square meters of residential space.",
+    "Served by three elevators, each residential floor accommodates one to five apartments with all wet spaces (kitchen, bathroom) allocated near the nucleus.",
+    "The meeting rooms are allocated at the top of unit nine, on floors 53 and 54. Each of these meeting floors has two rooms and one of the room can be divided.",
+    "The main load-bearing structure is a circular reinforced concrete core, whose center corresponds exactly to the rotation center of the floors. The core's inner diameter is consistently at 10.6 meters. The thickness of the concrete is 2.5 meters at the bottom and gradually tapers to 0.4 meter at the top.",
+    "The tower's elevator and the staircase are set inside the core, which is a secondary structural element. Strengthening and stiffening the core is a painted steel column exterior truss standing apart from the main body of the building like an external spine.",
+    "This spine is attached to each unit by large diagonal and horizontal steel struts. These elements connect the spine to a structural wall at the top of the unit, transferring shearing forces to the concrete core. The spine itself is stabilized by pairs of smaller struts, which connect it to each floor of the unit.",
+    "Floor slabs are made of cast-in-place reinforced concrete, built into the structural core and are elastically supported by inclined unit that has five flat slabs that are 27-centimeter-thick.",
+    "In addition, each unit has one cantilever conical slab with a maximum thickness of 90 centimeters that transfers the loads of the floor columns to the structural core.",
+    "The facade is made of approximately 2,800 curved aluminum panels and 2,250 flat glass windows. There are some 300 panels in each unit. Exterior of the Turning Torso features a black granite reflecting pool and a granite entrance path. Granite is also used in some places within the building, notably in the lobby.",
+    "A corridor located at first-floor connects the tower to a secondary building, which contains the parking garage and support services.",
+    "The entire building is handicapped accessible and features a highly advanced environmental design. Moreover, the engineering technique applied allows for an extraordinarily efficient method of construction.",
+    "After the sub-basement was erected as a conventional concrete work, the vertical circulation nucleus and slabs were put up using a sliding framework system. The exterior steel structure was then attached, using elements that were in-shop prefabricated. Finally, cranes pulled up the in-shop, prefabricated facade. In this way, despite its highly innovative and complex design, the construction time was reduced substantially.",
+    "In August 2015 the project was awarded with the prestigious “10 Year Award” from the Council on Tall Buildings and Urban Habitats (CTBUH).",
+    "This international award recognizes the Turning Tower’s value, contribution to culture and urban iconography, its social role, and its technical development ten years after its inauguration.",
+    "Vincent Tse, CTBUH Technical Awards Juror said, “ Iconic, astonishing and inspirational, the unusual building has had a deep influence in our industry and has added a unique feature to Malmö’s skyline (...). Since this project was announced 15 years ago, architects worldwide have been inspired .”"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "case_id": "case05",
+  "project_name": "Kubuswoningen (Cube Houses)",
+  "architect": "Piet Blom",
+  "location": "Oude Haven, Rotterdam, Netherlands",
+  "drawing_types": [
+    "平面",
+    "地面層配置圖",
+    "屋頂軸測圖"
+  ],
+  "step1_feature_identification": {
+    "modular_residential_units": "模組化居住單元：大量重複的方形住宅量體以群聚方式排列，形成類似聚落的集合住宅組織。",
+    "central_core_and_vertical_circulation": "中央核心與垂直動線：每個住宅模組中心皆可見核心筒或垂直服務空間，作為單元內部動線與設備集中點。",
+    "linear_connection_system": "線性連接系統：基地平面中以步道、道路與橋接路徑串聯各住宅群，形成可步行的外部連續動線。",
+    "clustered_residential_area": "群聚式住宅區：住宅模組集中於基地西北側，與右側較傳統的街廓式住宅量體形成明顯差異。",
+    "public_open_spaces": "公共開放空間：住宅群之間留設不規則空隙、廣場與步行節點，作為居民共享與停留的外部空間。",
+    "waterfront_and_road_environment": "水岸與道路環境：基地周邊包含 Oude Haven、Blaak、Groenendaal 等水岸與道路系統，形成住宅群的城市邊界與景觀背景。",
+    "block_style_residential_volumes": "街廓式住宅量體：基地右側 A、B、C 區以較連續的建築圍合出內院，與左側方塊住宅形成對比。"
+  },
+  "step2_spatial_relationship_analysis": [
+    {
+      "relationship": "模組群聚關係",
+      "description": "方形居住單元以密集重複的方式聚集成片，單元之間保持小尺度間距，動機在於創造高密度但仍具個別辨識性的聚落式居住環境。"
+    },
+    {
+      "relationship": "核心與單元關係",
+      "description": "每個住宅模組皆圍繞中央核心或垂直服務空間組織，核心成為室內動線、採光與設備整合的中心，動機在於讓重複單元具有清楚且一致的空間秩序。"
+    },
+    {
+      "relationship": "步道與住宅連接",
+      "description": "外部步道穿梭於住宅模組之間，將分散的單元串接成連續的居住網絡，動機在於以步行尺度取代單一走廊，形成像街巷般的生活路徑。"
+    },
+    {
+      "relationship": "群聚與開放空間互補",
+      "description": "住宅單元密集排列，但其間留出的空隙轉化為小型廣場與共享戶外空間，動機在於平衡高密度居住與公共停留、交流的需求。"
+    },
+    {
+      "relationship": "左右量體對比",
+      "description": "左側方塊住宅以自由群聚方式鋪展，右側 A、B、C 區則以街廓式量體圍合內院，兩者形成開放聚落與都市街廓的對照，動機在於回應不同尺度的居住型態與城市界面。"
+    },
+    {
+      "relationship": "水岸鄰近關係",
+      "description": "住宅群靠近 Oude Haven 與周邊水域，外部動線與開放空間朝向水岸展開，動機在於引入景觀資源並強化住宅與港灣環境的連結。"
+    },
+    {
+      "relationship": "道路邊界與內部聚落",
+      "description": "Blaak、Groenendaal 等道路界定基地外緣，而住宅模組則在邊界內形成較內向的步行聚落，動機在於隔離車行尺度並營造較安靜的人本居住環境。"
+    },
+    {
+      "relationship": "層級式公共性",
+      "description": "由城市道路進入基地後，空間依序轉為水岸開放區、群聚間的半公共步道，再進入個別住宅單元，動機在於建立由公共到私密的漸進式居住層級。"
+    }
+  ],
+  "photo_analysis": {
+    "photo_1_attic_interior": {
+      "material": "白色塗裝牆面搭配木質欄杆與樓梯踏板，硬質斜屋頂襯托木材溫潤紋理，營造安全且具居家感的氛圍。",
+      "color": "淺藍色天窗框與白色牆面形成冷色調基底，帶來寧靜、清爽且開放的心理感受。",
+      "design_vocabulary": "對稱的三角屋頂與斜向構架將視線導向屋脊頂端，強化空間高度與探索感。",
+      "light": "天窗引入冷色自然光並均勻灑落室內，使閣樓空間呈現明亮、輕盈且夢幻的氛圍。",
+      "window_view": "多面向斜天窗引入天空景觀與日光，減少封閉感並增強與外部環境的連結。"
+    },
+    "photo_2_outdoor_public_pathway": {
+      "material": "黃色金屬外牆、磚牆量體與混凝土坡道形成剛硬且清晰的材質對比，營造穩固而富結構感的空間印象。",
+      "color": "鮮明黃色立面搭配灰白色基座與磚材色調，帶來活潑、具辨識度且富社群活力的感受。",
+      "design_vocabulary": "傾斜量體、架空住宅與連續坡道共同引導動線向內延伸，創造富層次與探索性的空間體驗。",
+      "greenery": "通道周圍僅點綴少量盆栽與住戶植栽，於硬質環境中提供柔化與生活化的感受。",
+      "surrounding_environment": "住宅群透過架空與連橋圍塑半戶外公共空間，使鄰里活動與日常交流自然發生於建築之間。"
+    },
+    "photo_3_external_street_corner": {
+      "material": "金屬屋頂、塗裝板材與磚造基座形成剛硬且細膩的材質對比，帶來穩固中富有變化的空間感受。",
+      "color": "黃色外牆搭配灰色屋頂與褐色磚材，暖色調立面在冷色天空襯托下呈現活潑且具辨識度的氛圍。",
+      "design_vocabulary": "傾斜懸挑的立方體量沿街連續排列，引導視線水平延伸並強化都市地標性。",
+      "greenery": "街道周圍綠化較少，使建築造型成為主要視覺焦點，營造鮮明且具雕塑感的空間印象。",
+      "surrounding_environment": "建築面向開放廣場與交通節點，形成人流匯聚的公共空間並增強都市活力。"
+    },
+    "photo_4_internal_plaza_view": {
+      "material": "金屬板、磚牆與玻璃開口組成多樣硬質材質，使空間呈現理性且具有結構表現力的特質。",
+      "color": "黃色量體與淺灰色屋頂形成鮮明對比，帶來輕快、趣味且具童話感的心理感受。",
+      "design_vocabulary": "傾斜住宅量體圍塑中央廣場，透過框景與收放空間引導視線聚焦於共享中庭與遠方塔樓。",
+      "greenery": "廣場邊緣僅配置少量盆栽與植栽，適度柔化硬鋪面空間並增添居住感。",
+      "surrounding_environment": "住宅群圍合出半開放公共廣場，並與周邊高層建築形成新舊尺度並存的都市景觀。"
+    }
+  },
+  "web_data_archdaily": [
+    "A popular tourist attraction and bizarre architectural experiment, the Kubuswoningen is located in the Oude Haven, the most historic section of Rotterdam’s port.",
+    "Following the destruction of the Oude Haven during the Second World War, architect Piet Blom was asked to redevelop the area with architecture of character, presenting him the opportunity to apply his earlier cube housing exploration in Helmond to a more urban context.",
+    "Known for his desire to challenge conventions, Blom did not want the Kubuswoningen to resemble typical housing; he strived to dissolve the attitude that “a building has to be recognizable as a house for it to qualify as housing.”",
+    "During a time when the rebuilding of Rotterdam was pivotal, the Kubuswoningen served as an influential precedent for progressive and innovative architectural development."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "case_id": "case01",
+  "project_name": "VM Houses",
+  "step1_feature_identification": {
+    "vertical_circulation": [
+      "電梯（EVL-1、EVL-2、EVL-3）",
+      "樓梯（TRP）",
+      "服務核芯區"
+    ],
+    "linear_elements": [
+      "中央內側走廊",
+      "各戶進出動線",
+      "建築折角轉換節點"
+    ],
+    "functional_spaces": [
+      "居住單元（沿建築外側連續配置）",
+      "衛浴與服務空間",
+      "端部公共空間／共享空間",
+      "屋頂露台（Tagterrasse）",
+      "中央共享活動空間（Fælles lokale）",
+      "地面層商業／服務空間（Erhverv）"
+    ],
+    "open_spaces": [
+      "屋頂露台",
+      "內側共享交流空間",
+      "建築端部景觀與公共區域"
+    ]
+  },
+  "step2_spatial_relationship_analysis": [
+    {
+      "title": "核心集中配置",
+      "description": "電梯、樓梯與設備空間集中於建築轉折處及節點位置，形成共享服務核心；藉由集中垂直動線縮短各居住單元至公共設施的距離，同時提升管理與避難效率。"
+    },
+    {
+      "title": "走廊串聯居住群組",
+      "description": "內側連續走廊將兩翼住宅單元串聯成完整系統，各戶皆由共同走廊進出；此配置透過單一動線提高空間使用效率，並建立鄰里交流機會。"
+    },
+    {
+      "title": "居住單元群聚",
+      "description": "住宅單元沿建築外緣規律排列，形成高密度且重複模組化的居住群組；藉由標準化配置提高空間利用率，同時確保多數單元擁有良好採光與視野。"
+    },
+    {
+      "title": "公私層級分明",
+      "description": "公共動線與共享設施位於建築內側，而居住空間配置於外側立面；透過內公外私的分區策略，在促進社交互動的同時維持居住隱私。"
+    },
+    {
+      "title": "中央共享空間作為社區核心",
+      "description": "共享活動空間（Fælles lokale）位於量體中心位置，並與多組垂直動線相鄰；藉由中央化配置提升各住戶可及性，強化社區凝聚與日常交流。"
+    },
+    {
+      "title": "露台與公共空間連結",
+      "description": "屋頂露台（Tagterrasse）配置於建築上層並鄰接公共空間；透過室內外活動空間串聯，引入自然光、景觀與休憩機能，提升居住品質。"
+    },
+    {
+      "title": "轉折量體強化交流節點",
+      "description": "V字形量體於中央形成明顯轉折空間，並配置共享機能與垂直核心；藉由建築幾何聚焦人流，形成住戶交流與辨識度較高的社區節點。"
+    },
+    {
+      "title": "端部公共空間與住宅過渡",
+      "description": "建築兩端設置較大尺度公共或共享空間，作為住宅群組與外部環境的緩衝介面；透過端點節點提供多元活動可能，並降低長走廊空間的單調性。"
+    },
+    {
+      "title": "垂直層級遞進",
+      "description": "地面層以商業與公共服務機能（Erhverv）為主，中高樓層配置住宅單元，屋頂則設置露台與共享活動空間；機能由開放公共逐步轉向半公共與私密居住空間，形成清晰的垂直層級結構。"
+    },
+    {
+      "title": "共用設施服務多戶",
+      "description": "每組垂直核心、走廊與共享空間皆服務周邊多個住宅單元；藉由資源共享降低重複設施需求，提升整體建築營運與管理效率。"
+    }
+  ],
+  "spatial_experience_analysis": {
+    "outdoor": {
+      "material": "大面積玻璃帷幕搭配金屬構件與鋼製陽台，呈現光滑且硬質的材料特性；透明與精細的材質語彙帶來現代、輕盈且具科技感的心理感受。",
+      "color": "建築以冷色系玻璃藍綠色為主，搭配深灰色金屬陽台與結構體；冷色調營造出理性、安定且具有都市感空間氛圍。",
+      "design_vocabulary": "立面大量運用三角形懸挑陽台作為重複語彙，形成強烈節奏與方向性；尖角構圖引導視線沿立面延伸，帶來動態且富有張力的空間感受。",
+      "greenery": "建築前方配置草坡、灌木與喬木景觀，綠化覆蓋度屬中等；植栽柔化大量玻璃與金屬帶來的冷硬感，增加親近自然與放鬆的心理感受。",
+      "surrounding_environment": "基地鄰近開放綠地、步行空間與交通設施，周邊建築密度相對適中；開闊的環境條件提供良好視野與採光，使居住者感受到都市便利與開放性兼具的生活品質。",
+      "overall_atmosphere": "建築透過玻璃帷幕、重複三角陽台與折線量體塑造鮮明地標性意象，搭配前方景觀綠帶與開放空間，使整體呈現兼具現代感、活力感與都市休閒氛圍的居住環境。"
+    },
+    "indoor": {
+      "material": "白色金屬欄杆搭配木質地坪與大面玻璃窗，形成硬質與溫潤材質的對比；金屬帶來輕盈俐落感，而木材則增加居家的溫暖與舒適感。",
+      "color": "空間以白色牆面與淺色木地板為主，搭配局部深色窗框；淺色系營造明亮、純淨且放鬆的氛圍，使室內顯得更加寬敞。",
+      "design_vocabulary": "挑高空間結合夾層平台與垂直窗景，形成強烈的垂直延伸感；視線沿樓梯、欄杆與窗框向上與向外延伸，強化空間開放性與流動感。",
+      "light": "大量落地窗引入自然日光，形成高亮度且偏冷白色的自然採光環境；陽光穿越空間產生明暗層次，使室內呈現通透明亮且充滿活力的氛圍。",
+      "window_view": "大面開窗將外部綠地與城市景觀納入室內視野，形成開闊框景效果；自然景觀與天空視野降低室內壓迫感，提升居住者的放鬆與舒適感受。",
+      "overall_atmosphere": "空間透過挑高複層配置、大面積玻璃開口與極簡白色基調，營造出明亮、通透且富有現代感的居住氛圍；同時藉由木質材料與自然景觀的引入，平衡現代空間的理性特質，帶來溫暖且舒適的生活感受。"
+    }
+  },
+  "web_data_archdaily": [
+    "The VM Houses are two residential blocks formed as the letters V and M. The blocks are formed as such to allow for daylight, privacy and views.",
+    "The vis-à-vis with the neighbour is eliminated by pushing the slab in its centre, ensuring diagonal views to the vast and open, surrounding fields.",
+    "All apartments have a double-height space to the north and wide panoramic views to the south.",
+    "The logic of the diagonal slab utilized in the V house is broken down in smaller portions for the M house.",
+    "In this project, the typology of the Unite d' Habitation of Le Corbusier is reinterpreted and improved;",
+    "the central corridors are short and receive light from both ends, like bullet holes penetrating the building.",
+    "The VM Houses offer more than 80 different apartment types that are programmatically flexible and open to the individual needs of contemporary life - a mosaic of different life forms."
+  ]
+}

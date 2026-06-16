@@ -1,0 +1,110 @@
+{
+  "case_id": "case02",
+  "project_name": "8 House",
+  "architect": "BIG – Bjarke Ingels Group",
+  "location": "Copenhagen, Denmark",
+  "step1_feature_identification": {
+    "vertical_circulation": [
+      "樓梯",
+      "電梯核心",
+      "住宅單元內部樓梯（複層戶）"
+    ],
+    "linear_elements": [
+      "環狀公共走廊",
+      "連接各棟量體之空橋式通道",
+      "外部步行動線"
+    ],
+    "functional_spaces": [
+      "住宅單元（Row Houses）",
+      "複層住宅空間",
+      "公共中庭",
+      "共享交流空間",
+      "入口大廳及公共服務空間",
+      "屋頂層公共空間"
+    ],
+    "open_spaces": [
+      "中央庭院",
+      "建築間留設之開放空地",
+      "屋頂露台",
+      "景觀緩衝空間"
+    ]
+  },
+  "step2_spatial_relationship_analysis": [
+    {
+      "title": "中庭聚落組織",
+      "description": "住宅單元沿大型內院周邊環繞配置，形成群聚式居住結構；藉由中央留設共享開放空間，提高住戶交流機會並建立社區核心。"
+    },
+    {
+      "title": "環狀走廊串聯",
+      "description": "環狀公共走廊連接各住宅單元與主要出入口，形成完整循環動線系統；透過連續通行空間提升各區域可達性與使用彈性。"
+    },
+    {
+      "title": "節點交會強化連接",
+      "description": "建築量體於中央交叉節點相互銜接，並設置主要交通核心；藉由動線匯集提高不同居住群組間的連結性，形成社區交流中心。"
+    },
+    {
+      "title": "居住群組分區",
+      "description": "住宅單元依量體分段群聚配置，各區透過公共走廊連接；此配置兼顧社區整體性與鄰里尺度，使住戶在共享與私密之間取得平衡。"
+    },
+    {
+      "title": "公私層級遞進",
+      "description": "公共走廊與共享空間位於量體內側，住宅空間則沿外側配置；透過由公共至私密的空間序列，提升居住隱私與使用品質。"
+    },
+    {
+      "title": "垂直核心服務多戶",
+      "description": "電梯與樓梯設置於主要節點位置，服務周邊多個住宅單元；藉由集中配置降低交通空間面積，同時提高管理效率與避難安全。"
+    },
+    {
+      "title": "剖面層級遞增",
+      "description": "建築剖面呈階梯式向上發展，住宅單元隨高度逐步堆疊；藉由垂直量體變化創造多樣居住型態，同時改善採光與視野條件。"
+    },
+    {
+      "title": "複層住宅垂直串聯",
+      "description": "部分住宅單元於剖面中呈現上下樓層整合配置，並以內部樓梯連接；透過垂直整合提高空間使用效率，營造類似透天住宅的生活模式。"
+    },
+    {
+      "title": "開放空間與住宅互動",
+      "description": "中央庭院與住宅入口直接相鄰，形成半公共交流介面；透過視覺與動線連結，促進鄰里互動並提升空間活力。"
+    },
+    {
+      "title": "建築形體塑造共享邊界",
+      "description": "折線型量體圍塑出多個戶外空間與景觀節點；藉由建築退縮與轉折創造多元活動場所，增強社區辨識度與公共性。"
+    },
+    {
+      "title": "水平與垂直動線整合",
+      "description": "公共走廊串聯各住宅群組，並與樓梯及電梯核心交會；透過水平與垂直動線整合建立清晰交通架構，提高空間導向性。"
+    },
+    {
+      "title": "屋頂與高層公共空間共享",
+      "description": "較高樓層配置公共露台與共享活動空間，並鄰近主要交通核心；藉由共享設施提升住戶使用頻率，創造跨樓層社交平台。"
+    }
+  ],
+  "spatial_experience_analysis": {
+    "outdoor": {
+      "material": "建築以金屬板、玻璃帷幕與混凝土結構為主要材料，呈現平滑且硬質的表面特徵；精緻且理性的材質語彙帶來現代、穩定且具都會感的心理感受。",
+      "color": "立面以白色、灰色及玻璃的冷色調為主，搭配綠色屋頂與植生坡面；冷色系塑造簡潔與秩序感，而綠色元素則增加自然與放鬆氛圍。",
+      "design_vocabulary": "建築運用折線量體、斜坡屋頂與大尺度退縮陽台形成鮮明幾何語彙；連續斜向線條引導視線沿量體延伸，營造動態且具有方向性的空間感受。",
+      "greenery": "建築整合大面積綠屋頂、植生坡面及基地周圍景觀綠地，綠化覆蓋度高；大量植栽降低建築體量感並提升親自然感，使空間更具休閒與生態意象。",
+      "surrounding_environment": "基地鄰接人工水岸、開放綠地及新興住宅社區，並與道路系統相連；開闊的水岸景觀與低密度環境提升視覺舒適度，營造悠閒且具都市度假的生活氛圍。",
+      "overall_atmosphere": "建築透過折線量體、綠屋頂與大面積陽台塑造鮮明地景建築形象，並結合水岸環境與開放綠地，使整體呈現兼具現代感、生態性與社區共享特質的居住氛圍。"
+    },
+    "indoor": {
+      "material": "大面積玻璃窗搭配木質地板與白色牆面，形成透明、溫潤與簡潔的材料組合；玻璃增加空間輕盈感，木質紋理則帶來自然且舒適的心理感受。",
+      "color": "空間以白色與淺木色為主，搭配藍天與綠地景觀色彩；淺色調營造明亮、純淨且放鬆的氛圍，使室內更顯開闊。",
+      "design_vocabulary": "挑高空間與大尺度落地窗構成簡潔的垂直框景語彙；視線被引導向外部地景與天空延伸，強化空間的開放感與自由感。",
+      "light": "自然光透過挑高玻璃窗大量進入室內，形成柔和且均勻的日光環境；高亮度採光提升空間通透感，使氛圍顯得清新且充滿活力。",
+      "window_view": "落地窗框取廣闊草地與天空景觀，並透過陽台形成室內外過渡空間；開闊視野降低封閉感，增強居住者的放鬆與親自然感受。",
+      "overall_atmosphere": "空間藉由挑高尺度、大面積玻璃開口與簡潔白色基調，營造出明亮、純淨且極具開放感的居住環境；外部草地與天空景觀進一步延伸室內視覺範圍，使整體呈現寧靜、舒適且貼近自然的生活氛圍。"
+    }
+  },
+  "web_data_archdaily": [
+    "Collaboration: Hopfner Partners, MOE & Brodsgaard, KLAR. The bowtie-shaped 61,000 sqm mixed-use building of three different types of residential housing and 10,000 sqm of retail and offices comprises Denmark’s largest private development ever undertaken.",
+    "Commissioned by St. Frederikslund and Per Hopfner in 2006, the 8 House sits on the outer edge of the city as the southern most outpost of Orestad.",
+    "Rather than a traditional block, the 8 House stacks all ingredients of a lively urban neighborhood into horizontal layers of typologies connected by a continuous promenade and cycling path up to the 10th floor creating a three-dimensional urban neighborhood where suburban life merges with the energy of a city, where business and housing co-exist.",
+    "“We have now completed three remarkable buildings in Orestad, the VM Houses, The Mountain and finally the 8 House – which is the sole result of a good and constructive collaboration with talented young architects who had a good understanding for the economical aspects,” Per Hopfner, Hopfner Partners.",
+    "“The apartments are placed at the top while the commercial program unfolds at the base of the building. As a result, the different horizontal layers have achieved a quality of their own: the apartments benefit from the view, sunlight and fresh air, while the office leases merge with life on the street. This is emphasized by the shape of 8 House which is literally hoisted up in the Northeast corner and pushed down at the Southwest corner, allowing light and air to enter the southern courtyard,” Thomas Christoffersen, Partner in Charge, 8 House, BIG.",
+    "A continuous public path stretches from street level to the penthouses and allows people to bike all the way from the ground floor to the top, moving alongside townhouses with gardens, winding through an urban perimeter block.",
+    "Two sloping green roofs totaling 1,700 sqm are strategically placed to reduce the urban heat island effect as well as providing the visual identity to the project and tying it back to the adjacent farmlands towards the south.",
+    "“8 House is a three-dimensional neighborhood rather than an architectural object. An alley of 150 rowhouses stretches through the entire block and twists all the way from street level to the top and down again. Where social life, the spontaneous encounter and neighbor interaction traditionally is restricted to the ground level, the 8 House allows it to expand all the way to the top,” Bjarke Ingels, Founding Partner, BIG.",
+    "The 8 House uses size to its advantage by creating immense differences in height thereby creating a unique sense of community with small gardens and pathways that remind you of the intimacy of an Italian hill town. With spectacular views towards the Copenhagen Canal and Kalvebod Faelled’s protected open spaces, 8 House provides residences to people in all of life’s stages through its 476 housing units, including apartments of varied sizes, penthouses and townhouses as well as office spaces to the city’s business and trade in one single building.",
+    "“8 House is our second realized example of architectural alchemy – the idea that by mixing traditional ingredients, retail, row- houses and apartments in untraditional ways – you create added value if not gold. The mix allows the individual activities to find their way to the most ideal location within the
